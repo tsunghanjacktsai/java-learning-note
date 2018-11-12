@@ -1,2 +1,2 @@
 # awesome-java-note-cn
-Java Learning Not
+Java Learning Note
