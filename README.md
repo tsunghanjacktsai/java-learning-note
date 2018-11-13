@@ -14,7 +14,7 @@ Have a cup of Java!
 
  - [二維數組](https://github.com/jack870131/awesome-java-note-cn/blob/master/Array/%E4%BA%8C%E7%B6%AD%E6%95%B8%E7%B5%84.md)
 
- - [其他](https://github.com/jack870131/java-note/blob/master/Array/%E5%85%B6%E4%BB%96.md)
+ - [其他](https://github.com/jack870131/awesome-java-note-cn/blob/master/Array/%E5%85%B6%E4%BB%96.md)
 
 ### 面向對象
  - [概述](https://github.com/jack870131/java-note/blob/master/Object%20Oriented/%E6%A6%82%E8%BF%B0.md)
