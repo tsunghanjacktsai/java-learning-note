@@ -17,17 +17,17 @@ Have a cup of Java!
  - [其他](https://github.com/jack870131/awesome-java-note-cn/blob/master/Array/%E5%85%B6%E4%BB%96.md)
 
 ### 面向對象
- - [概述](https://github.com/jack870131/java-note/blob/master/Object%20Oriented/%E6%A6%82%E8%BF%B0.md)
+ - [概述](https://github.com/jack870131/awesome-java-note-cn/blob/master/Object%20Oriented/%E6%A6%82%E8%BF%B0.md)
 
- - [類與對象](https://github.com/jack870131/java-note/blob/master/Object%20Oriented/%E9%A1%9E%E8%88%87%E5%B0%8D%E8%B1%A1.md)
+ - [類與對象](https://github.com/jack870131/awesome-java-note-cn/blob/master/Object%20Oriented/%E9%A1%9E%E8%88%87%E5%B0%8D%E8%B1%A1.md)
 
- - [數據類型參數傳遞](https://github.com/jack870131/java-note/blob/master/Object%20Oriented/%E6%95%B8%E6%93%9A%E9%A1%9E%E5%9E%8B%E5%8F%83%E6%95%B8%E5%82%B3%E9%81%9E.md)
+ - [數據類型參數傳遞](https://github.com/jack870131/awesome-java-note-cn/blob/master/Object%20Oriented/%E6%95%B8%E6%93%9A%E9%A1%9E%E5%9E%8B%E5%8F%83%E6%95%B8%E5%82%B3%E9%81%9E.md)
  
  - [封裝](https://github.com/jack870131/java-note/blob/master/Object%20Oriented/%E5%B0%81%E8%A3%9D.md)
  
- - [構造函數](https://github.com/jack870131/java-note/blob/master/Object%20Oriented/%E6%A7%8B%E9%80%A0%E5%87%BD%E6%95%B8.md)
+ - [構造函數](https://github.com/jack870131/awesome-java-note-cn/blob/master/Object%20Oriented/%E6%A7%8B%E9%80%A0%E5%87%BD%E6%95%B8.md)
  
- - [this 關鍵字](https://github.com/jack870131/java-note/blob/master/Object%20Oriented/this%20%E9%97%9C%E9%8D%B5%E5%AD%97.md)
+ - [this 關鍵字](https://github.com/jack870131/awesome-java-note-cn/blob/master/Object%20Oriented/this%20%E9%97%9C%E9%8D%B5%E5%AD%97.md)
  
  - [static 關鍵字](https://github.com/jack870131/java-note/blob/master/Object%20Oriented/static%20%E9%97%9C%E9%8D%B5%E5%AD%97.md)
  
