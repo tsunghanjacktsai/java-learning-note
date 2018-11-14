@@ -23,7 +23,7 @@ Have a cup of Java!
 
  - [數據類型參數傳遞](https://github.com/jack870131/awesome-java-note-cn/blob/master/Object%20Oriented/%E6%95%B8%E6%93%9A%E9%A1%9E%E5%9E%8B%E5%8F%83%E6%95%B8%E5%82%B3%E9%81%9E.md)
  
- - [封裝](https://github.com/jack870131/java-note/blob/master/Object%20Oriented/%E5%B0%81%E8%A3%9D.md)
+ - [封裝](https://github.com/jack870131/awesome-java-note-cn/blob/master/Object%20Oriented/%E5%B0%81%E8%A3%9D.md)
  
  - [構造函數](https://github.com/jack870131/awesome-java-note-cn/blob/master/Object%20Oriented/%E6%A7%8B%E9%80%A0%E5%87%BD%E6%95%B8.md)
  
