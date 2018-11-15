@@ -29,31 +29,31 @@ Have a cup of Java!
  
  - [this 關鍵字](https://github.com/jack870131/awesome-java-note-cn/blob/master/Object%20Oriented/this%20%E9%97%9C%E9%8D%B5%E5%AD%97.md)
  
- - [static 關鍵字](https://github.com/jack870131/java-note/blob/master/Object%20Oriented/static%20%E9%97%9C%E9%8D%B5%E5%AD%97.md)
+ - [static 關鍵字](https://github.com/jack870131/awesome-java-note-cn/blob/master/Object%20Oriented/static%20%E9%97%9C%E9%8D%B5%E5%AD%97.md)
  
- - [文檔注釋](https://github.com/jack870131/java-note/blob/master/Object%20Oriented/%E6%96%87%E6%AA%94%E6%B3%A8%E9%87%8B.md)
+ - [文檔注釋](https://github.com/jack870131/awesome-java-note-cn/blob/master/Object%20Oriented/%E6%96%87%E6%AA%94%E6%B3%A8%E9%87%8B.md)
  
- - [單例設計模式](https://github.com/jack870131/java-note/blob/master/Object%20Oriented/%E5%96%AE%E4%BE%8B%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F.md)
+ - [單例設計模式](https://github.com/jack870131/awesome-java-note-cn/blob/master/Object%20Oriented/%E5%96%AE%E4%BE%8B%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F.md)
  
- - [繼承(Inheritence)](https://github.com/jack870131/Java-Note/blob/master/Object%20Oriented/%E7%B9%BC%E6%89%BF(Inheritence).md)
+ - [繼承(Inheritence)](https://github.com/jack870131/awesome-java-note-cn/blob/master/Object%20Oriented/%E7%B9%BC%E6%89%BF(Inheritence).md)
 
- - [final 關鍵字](https://github.com/jack870131/Java-Note/blob/master/Object%20Oriented/final%20%E9%97%9C%E9%8D%B5%E5%AD%97.md)
+ - [final 關鍵字](https://github.com/jack870131/awesome-java-note-cn/blob/master/Object%20Oriented/final%20%E9%97%9C%E9%8D%B5%E5%AD%97.md)
 
- - [抽象類(abstract)](https://github.com/jack870131/Java-Note/blob/master/Object%20Oriented/%E6%8A%BD%E8%B1%A1%E9%A1%9E(abstract).md)
+ - [抽象類(abstract)](https://github.com/jack870131/awesome-java-note-cn/blob/master/Object%20Oriented/%E6%8A%BD%E8%B1%A1%E9%A1%9E(abstract).md)
 
- - [接口(interface)](https://github.com/jack870131/Java-Note/blob/master/Object%20Oriented/%E6%8E%A5%E5%8F%A3(interface).md)
+ - [接口(interface)](https://github.com/jack870131/awesome-java-note-cn/blob/master/Object%20Oriented/%E6%8E%A5%E5%8F%A3(interface).md)
 
- - [多態(Polymorphism)](https://github.com/jack870131/Java-Note/blob/master/Object%20Oriented/%E5%A4%9A%E6%85%8B(Polymorphism).md)
+ - [多態(Polymorphism)](https://github.com/jack870131/awesome-java-note-cn/blob/master/Object%20Oriented/%E5%A4%9A%E6%85%8B(Polymorphism).md)
 
- - [內部類](https://github.com/jack870131/Java-Note/blob/master/Object%20Oriented/%E5%85%A7%E9%83%A8%E9%A1%9E.md)
+ - [內部類](https://github.com/jack870131/awesome-java-note-cn/blob/master/Object%20Oriented/%E5%85%A7%E9%83%A8%E9%A1%9E.md)
 
- - [匿名內部類](https://github.com/jack870131/Java-Note/blob/master/Object%20Oriented/%E5%8C%BF%E5%90%8D%E5%85%A7%E9%83%A8%E9%A1%9E.md)
+ - [匿名內部類](https://github.com/jack870131/awesome-java-note-cn/blob/master/Object%20Oriented/%E5%8C%BF%E5%90%8D%E5%85%A7%E9%83%A8%E9%A1%9E.md)
 
- - [異常(Exception)](https://github.com/jack870131/Java-Note/blob/master/Object%20Oriented/%E7%95%B0%E5%B8%B8%20(Exception).md)
+ - [異常(Exception)](https://github.com/jack870131/awesome-java-note-cn/blob/master/Object%20Oriented/%E7%95%B0%E5%B8%B8%20(Exception).md)
 
- - [Object 類](https://github.com/jack870131/Java-Note/blob/master/Object%20Oriented/Object%20%E9%A1%9E.md)
+ - [Object 類](https://github.com/jack870131/awesome-java-note-cn/blob/master/Object%20Oriented/Object%20%E9%A1%9E.md)
 
- - [包(package)](https://github.com/jack870131/Java-Note/blob/master/Object%20Oriented/%E5%8C%85(package).md)
+ - [包(package)](https://github.com/jack870131/awesome-java-note-cn/blob/master/Object%20Oriented/%E5%8C%85(package).md)
 
 ### 多線程
  - [概念](https://github.com/jack870131/Java-Note/blob/master/Multithread/%E6%A6%82%E5%BF%B5.md)
