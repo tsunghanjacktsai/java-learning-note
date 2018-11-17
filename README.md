@@ -56,25 +56,25 @@ Have a cup of Java!
  - [包(package)](https://github.com/jack870131/awesome-java-note-cn/blob/master/Object%20Oriented/%E5%8C%85(package).md)
 
 ### 多線程
- - [概念](https://github.com/jack870131/Java-Note/blob/master/Multithread/%E6%A6%82%E5%BF%B5.md)
+ - [概念](https://github.com/jack870131/awesome-java-note-cn/blob/master/Multithread/%E6%A6%82%E5%BF%B5.md)
 
- - [創建線程](https://github.com/jack870131/Java-Note/blob/master/Multithread/%E5%89%B5%E5%BB%BA%E7%B7%9A%E7%A8%8B.md)
+ - [創建線程](https://github.com/jack870131/awesome-java-note-cn/blob/master/Multithread/%E5%89%B5%E5%BB%BA%E7%B7%9A%E7%A8%8B.md)
 
- - [多線程事例](https://github.com/jack870131/Java-Note/blob/master/Multithread/%E5%A4%9A%E7%B7%9A%E7%A8%8B%E4%BA%8B%E4%BE%8B.md)
+ - [多線程事例](https://github.com/jack870131/awesome-java-note-cn/blob/master/Multithread/%E5%A4%9A%E7%B7%9A%E7%A8%8B%E4%BA%8B%E4%BE%8B.md)
 
- - [多線程安全](https://github.com/jack870131/Java-Note/blob/master/Multithread/%E5%A4%9A%E7%B7%9A%E7%A8%8B%E5%AE%89%E5%85%A8.md)
+ - [多線程安全](https://github.com/jack870131/awesome-java-note-cn/blob/master/Multithread/%E5%A4%9A%E7%B7%9A%E7%A8%8B%E5%AE%89%E5%85%A8.md)
 
- - [多線程安全示例](https://github.com/jack870131/Java-Note/blob/master/Multithread/%E5%A4%9A%E7%B7%9A%E7%A8%8B%E5%AE%89%E5%85%A8%E7%A4%BA%E4%BE%8B.md)
+ - [多線程安全示例](https://github.com/jack870131/awesome-java-note-cn/blob/master/Multithread/%E5%A4%9A%E7%B7%9A%E7%A8%8B%E5%AE%89%E5%85%A8%E7%A4%BA%E4%BE%8B.md)
 
- - [多線程下的單例模式](https://github.com/jack870131/Java-Note/blob/master/Multithread/%E5%A4%9A%E7%B7%9A%E7%A8%8B%E4%B8%8B%E7%9A%84%E5%96%AE%E4%BE%8B%E6%A8%A1%E5%BC%8F.md)
+ - [多線程下的單例模式](https://github.com/jack870131/awesome-java-note-cn/blob/master/Multithread/%E5%A4%9A%E7%B7%9A%E7%A8%8B%E4%B8%8B%E7%9A%84%E5%96%AE%E4%BE%8B%E6%A8%A1%E5%BC%8F.md)
 
- - [死鎖](https://github.com/jack870131/Java-Note/blob/master/Multithread/%E6%AD%BB%E9%8E%96.md)
+ - [死鎖](https://github.com/jack870131/awesome-java-note-cn/blob/master/Multithread/%E6%AD%BB%E9%8E%96.md)
 
- - [線程間的通訊](https://github.com/jack870131/Java-Note/blob/master/Multithread/%E7%B7%9A%E7%A8%8B%E9%96%93%E7%9A%84%E9%80%9A%E8%A8%8A.md)
+ - [線程間的通訊](https://github.com/jack870131/awesome-java-note-cn/blob/master/Multithread/%E7%B7%9A%E7%A8%8B%E9%96%93%E7%9A%84%E9%80%9A%E8%A8%8A.md)
 
- - [等待&喚醒機制事例](https://github.com/jack870131/Java-Note/blob/master/Multithread/%E7%AD%89%E5%BE%85%26%E5%96%9A%E9%86%92%E6%A9%9F%E5%88%B6%E4%BA%8B%E4%BE%8B.md)
+ - [等待&喚醒機制事例](https://github.com/jack870131/awesome-java-note-cn/blob/master/Multithread/%E7%AD%89%E5%BE%85%26%E5%96%9A%E9%86%92%E6%A9%9F%E5%88%B6%E4%BA%8B%E4%BE%8B.md)
 
- - [停止線程](https://github.com/jack870131/Java-Note/blob/master/Multithread/%E5%81%9C%E6%AD%A2%E7%B7%9A%E7%A8%8B.md)
+ - [停止線程](https://github.com/jack870131/awesome-java-note-cn/blob/master/Multithread/%E5%81%9C%E6%AD%A2%E7%B7%9A%E7%A8%8B.md)
 
 ### 集合框架
  - [基本數據類型對象包裝類](https://github.com/jack870131/Java-Note/blob/master/Collections/%E5%9F%BA%E6%9C%AC%E6%95%B8%E6%93%9A%E9%A1%9E%E5%9E%8B%E5%B0%8D%E8%B1%A1%E5%8C%85%E8%A3%9D%E9%A1%9E.md)
