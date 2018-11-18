@@ -77,29 +77,29 @@ Have a cup of Java!
  - [停止線程](https://github.com/jack870131/awesome-java-note-cn/blob/master/Multithread/%E5%81%9C%E6%AD%A2%E7%B7%9A%E7%A8%8B.md)
 
 ### 集合框架
- - [基本數據類型對象包裝類](https://github.com/jack870131/Java-Note/blob/master/Collections/%E5%9F%BA%E6%9C%AC%E6%95%B8%E6%93%9A%E9%A1%9E%E5%9E%8B%E5%B0%8D%E8%B1%A1%E5%8C%85%E8%A3%9D%E9%A1%9E.md)
+ - [基本數據類型對象包裝類](https://github.com/jack870131/awesome-java-note-cn/blob/master/Collections/%E5%9F%BA%E6%9C%AC%E6%95%B8%E6%93%9A%E9%A1%9E%E5%9E%8B%E5%B0%8D%E8%B1%A1%E5%8C%85%E8%A3%9D%E9%A1%9E.md)
  
- - [包裝類-練習](https://github.com/jack870131/Java-Note/blob/master/Collections/%E5%8C%85%E8%A3%9D%E9%A1%9E-%E7%B7%B4%E7%BF%92.md)
+ - [包裝類-練習](https://github.com/jack870131/awesome-java-note-cn/blob/master/Collections/%E5%8C%85%E8%A3%9D%E9%A1%9E-%E7%B7%B4%E7%BF%92.md)
  
- - [集合框架(集合類)](https://github.com/jack870131/Java-Note/blob/master/Collections/%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6(%E9%9B%86%E5%90%88%E9%A1%9E).md)
+ - [集合框架(集合類)](https://github.com/jack870131/awesome-java-note-cn/blob/master/Collections/%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6(%E9%9B%86%E5%90%88%E9%A1%9E).md)
 
- - [迭代器](https://github.com/jack870131/Java-Note/blob/master/Collections/%E8%BF%AD%E4%BB%A3%E5%99%A8.md)
+ - [迭代器]()
 
- - [List 接口](https://github.com/jack870131/Java-Note/blob/master/Collections/List%20%E6%8E%A5%E5%8F%A3.md)
+ - [List 接口](https://github.com/jack870131/awesome-java-note-cn/blob/master/Collections/List%20%E6%8E%A5%E5%8F%A3.md)
 
- - [Vector 集合](https://github.com/jack870131/Java-Note/blob/master/Collections/Vector%20%E9%9B%86%E5%90%88.md)
+ - [Vector 集合](https://github.com/jack870131/awesome-java-note-cn/blob/master/Collections/Vector%20%E9%9B%86%E5%90%88.md)
 
  - [LinkedList 集合](https://github.com/jack870131/Java-Note/blob/master/Collections/LinkedList%20集合.md)
 
- - [ArrayList 集合](https://github.com/jack870131/Java-Note/blob/master/Collections/ArrayList%20%E9%9B%86%E5%90%88.md)
+ - [ArrayList 集合](https://github.com/jack870131/awesome-java-note-cn/blob/master/Collections/ArrayList%20%E9%9B%86%E5%90%88.md)
 
- - [HashSet 集合](https://github.com/jack870131/Java-Note/blob/master/Collections/HashSet%20%E9%9B%86%E5%90%88.md)
+ - [HashSet 集合](https://github.com/jack870131/awesome-java-note-cn/blob/master/Collections/HashSet%20%E9%9B%86%E5%90%88.md)
 
- - [LinkedHashSet 集合](https://github.com/jack870131/Java-Note/blob/master/Collections/LinkedHashSet%20%E9%9B%86%E5%90%88.md)
+ - [LinkedHashSet 集合](https://github.com/jack870131/awesome-java-note-cn/blob/master/Collections/LinkedHashSet%20%E9%9B%86%E5%90%88.md)
 
- - [TreeSet 集合](https://github.com/jack870131/Java-Note/blob/master/Collections/TreeSet%20%E9%9B%86%E5%90%88.md)
+ - [TreeSet 集合](https://github.com/jack870131/awesome-java-note-cn/blob/master/Collections/TreeSet%20%E9%9B%86%E5%90%88.md)
 
- - [Map 集合](https://github.com/jack870131/Java-Note/blob/master/Collections/Map%20%E9%9B%86%E5%90%88.md)
+ - [Map 集合](https://github.com/jack870131/awesome-java-note-cn/blob/master/Collections/Map%20%E9%9B%86%E5%90%88.md)
 
  - [泛型](https://github.com/jack870131/Java-Note/blob/master/Collections/%E6%B3%9B%E5%9E%8B.md)
 
