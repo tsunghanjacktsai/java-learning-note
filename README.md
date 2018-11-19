@@ -101,21 +101,21 @@ Have a cup of Java!
 
  - [Map 集合](https://github.com/jack870131/awesome-java-note-cn/blob/master/Collections/Map%20%E9%9B%86%E5%90%88.md)
 
- - [泛型](https://github.com/jack870131/Java-Note/blob/master/Collections/%E6%B3%9B%E5%9E%8B.md)
+ - [泛型](https://github.com/jack870131/awesome-java-note-cn/blob/master/Collections/%E6%B3%9B%E5%9E%8B.md)
 
- - [泛型方法](https://github.com/jack870131/Java-Note/blob/master/Collections/%E6%B3%9B%E5%9E%8B%E6%96%B9%E6%B3%95.md)
+ - [泛型方法](https://github.com/jack870131/awesome-java-note-cn/blob/master/Collections/%E6%B3%9B%E5%9E%8B%E6%96%B9%E6%B3%95.md)
 
- - [泛型接口](https://github.com/jack870131/Java-Note/blob/master/Collections/%E6%B3%9B%E5%9E%8B%E6%8E%A5%E5%8F%A3.md)
+ - [泛型接口](https://github.com/jack870131/awesome-java-note-cn/blob/master/Collections/%E6%B3%9B%E5%9E%8B%E6%8E%A5%E5%8F%A3.md)
 
- - [泛型限定](https://github.com/jack870131/Java-Note/blob/master/Collections/%E6%B3%9B%E5%9E%8B%E9%99%90%E5%AE%9A.md)
+ - [泛型限定](https://github.com/jack870131/awesome-java-note-cn/blob/master/Collections/%E6%B3%9B%E5%9E%8B%E9%99%90%E5%AE%9A.md)
 
- - [集合查閱技巧](https://github.com/jack870131/Java-Note/blob/master/Collections/%E9%9B%86%E5%90%88%E6%9F%A5%E9%96%B1%E6%8A%80%E5%B7%A7.md)
+ - [集合查閱技巧](https://github.com/jack870131/awesome-java-note-cn/blob/master/Collections/%E9%9B%86%E5%90%88%E6%9F%A5%E9%96%B1%E6%8A%80%E5%B7%A7.md)
 
- - [LinkedHashMap](https://github.com/jack870131/Java-Note/blob/master/Collections/LinkedHashMap.md)
+ - [LinkedHashMap](https://github.com/jack870131/awesome-java-note-cn/blob/master/Collections/LinkedHashMap.md
 
- - [Map 集合練習](https://github.com/jack870131/Java-Note/blob/master/Collections/Map%20%E9%9B%86%E5%90%88%E7%B7%B4%E7%BF%92.md)
+ - [Map 集合練習](https://github.com/jack870131/awesome-java-note-cn/blob/master/Collections/Map%20%E9%9B%86%E5%90%88%E7%B7%B4%E7%BF%92.md)
 
- - [Utilities 工具類](https://github.com/jack870131/Java-Note/blob/master/Collections/Utilities%20%E5%B7%A5%E5%85%B7%E9%A1%9E.md)
+ - [Utilities 工具類](https://github.com/jack870131/awesome-java-note-cn/blob/master/Collections/Utilities%20%E5%B7%A5%E5%85%B7%E9%A1%9E.md)
 
 ### 其他對象API
  - [System 類](https://github.com/jack870131/Java-Note/blob/master/API-Other/System%20%E9%A1%9E.md)
