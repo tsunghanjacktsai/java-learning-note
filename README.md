@@ -118,15 +118,15 @@ Have a cup of Java!
  - [Utilities 工具類](https://github.com/jack870131/awesome-java-note-cn/blob/master/Collections/Utilities%20%E5%B7%A5%E5%85%B7%E9%A1%9E.md)
 
 ### 其他對象API
- - [System 類](https://github.com/jack870131/Java-Note/blob/master/API-Other/System%20%E9%A1%9E.md)
+ - [System 類](https://github.com/jack870131/awesome-java-note-cn/blob/master/API-Other/System%20%E9%A1%9E.md)
 
- - [Runtime 類](https://github.com/jack870131/Java-Note/blob/master/API-Other/Runtime%20%E9%A1%9E.md)
+ - [Runtime 類](\https://github.com/jack870131/awesome-java-note-cn/blob/master/API-Other/Math%20%E9%A1%9E.md)
 
- - [Math 類](https://github.com/jack870131/Java-Note/blob/master/API-Other/Math%20%E9%A1%9E.md)
+ - [Math 類](https://github.com/jack870131/awesome-java-note-cn/blob/master/API-Other/Date%20%E9%A1%9E.md)
 
- - [Date 類](https://github.com/jack870131/Java-Note/blob/master/API-Other/Date%20%E9%A1%9E.md)
+ - [Date 類](https://github.com/jack870131/awesome-java-note-cn/blob/master/API-Other/Runtime%20%E9%A1%9E.md)
 
- - [Calendar 類](https://github.com/jack870131/Java-Note/blob/master/API-Other/%E5%85%B6%E4%BB%96%E5%B0%8D%E8%B1%A1API.md)
+ - [Calendar 類](https://github.com/jack870131/awesome-java-note-cn/blob/master/API-Other/Calendar%20%E9%A1%9E.md)
 
 ### IO 流
  - [輸入流與輸出流](https://github.com/jack870131/Java-Note/blob/master/IO/%E8%BC%B8%E5%85%A5%E6%B5%81%E8%88%87%E8%BC%B8%E5%87%BA%E6%B5%81.md)
