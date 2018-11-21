@@ -120,11 +120,11 @@ Have a cup of Java!
 ### 其他對象API
  - [System 類](https://github.com/jack870131/awesome-java-note-cn/blob/master/API-Other/System%20%E9%A1%9E.md)
 
- - [Runtime 類](https://github.com/jack870131/awesome-java-note-cn/blob/master/API-Other/Math%20%E9%A1%9E.md)
+ - [Runtime 類](https://github.com/jack870131/awesome-java-note-cn/blob/master/API-Other/Runtime%20%E9%A1%9E.md)
 
- - [Math 類](https://github.com/jack870131/awesome-java-note-cn/blob/master/API-Other/Date%20%E9%A1%9E.md)
+ - [Math 類](https://github.com/jack870131/awesome-java-note-cn/blob/master/API-Other/Math%20%E9%A1%9E.md)
 
- - [Date 類](https://github.com/jack870131/awesome-java-note-cn/blob/master/API-Other/Runtime%20%E9%A1%9E.md)
+ - [Date 類](https://github.com/jack870131/awesome-java-note-cn/blob/master/API-Other/Date%20%E9%A1%9E.md)
 
  - [Calendar 類](https://github.com/jack870131/awesome-java-note-cn/blob/master/API-Other/Calendar%20%E9%A1%9E.md)
 
