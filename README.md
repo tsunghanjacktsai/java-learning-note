@@ -129,25 +129,25 @@ Have a cup of Java!
  - [Calendar 類](https://github.com/jack870131/awesome-java-note-cn/blob/master/API-Other/Calendar%20%E9%A1%9E.md)
 
 ### IO 流
- - [輸入流與輸出流](https://github.com/jack870131/Java-Note/blob/master/IO/%E8%BC%B8%E5%85%A5%E6%B5%81%E8%88%87%E8%BC%B8%E5%87%BA%E6%B5%81.md)
+ - [輸入流與輸出流](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/%E8%BC%B8%E5%85%A5%E6%B5%81%E8%88%87%E8%BC%B8%E5%87%BA%E6%B5%81.md)
 
- - [FileWriter](https://github.com/jack870131/Java-Note/blob/master/IO/FileWriter.md)
+ - [FileWriter](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/FileWriter.md)
 
- - [IOException](https://github.com/jack870131/Java-Note/blob/master/IO/IOException.md)
+ - [IOException](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/IOException.md)
 
- - [緩沖區](https://github.com/jack870131/Java-Note/blob/master/IO/%E7%B7%A9%E6%B2%96%E5%8D%80.md)
+ - [緩沖區](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/%E7%B7%A9%E6%B2%96%E5%8D%80.md)
 
- - [自定義讀取緩沖區](https://github.com/jack870131/Java-Note/blob/master/IO/%E8%87%AA%E5%AE%9A%E7%BE%A9%E8%AE%80%E5%8F%96%E7%B7%A9%E8%A1%9D%E5%8D%80.md)
+ - [自定義讀取緩沖區](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/%E8%87%AA%E5%AE%9A%E7%BE%A9%E8%AE%80%E5%8F%96%E7%B7%A9%E6%B2%96%E5%8D%80.md)
 
- - [裝飾設計模式](https://github.com/jack870131/Java-Note/blob/master/IO/%E8%A3%9D%E9%A3%BE%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F.md)
+ - [裝飾設計模式](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/%E8%A3%9D%E9%A3%BE%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F.md)
 
- - [LineNumberReader](https://github.com/jack870131/Java-Note/blob/master/IO/LineNumberReader.md)
+ - [LineNumberReader](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/LineNumberReader.md)
 
- - [字節流](https://github.com/jack870131/Java-Note/blob/master/IO/%E5%AD%97%E7%AF%80%E6%B5%81.md)
+ - [字節流](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/%E5%AD%97%E7%AF%80%E6%B5%81.md)
 
- - [鍵盤錄入](https://github.com/jack870131/java-note/blob/master/IO/%E9%8D%B5%E7%9B%A4%E9%8C%84%E5%85%A5.md)
+ - [鍵盤錄入](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/%E9%8D%B5%E7%9B%A4%E9%8C%84%E5%85%A5.md)
 
- - [轉換流](https://github.com/jack870131/java-note/blob/master/IO/轉換流.md)
+ - [轉換流](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/%E8%BD%89%E6%8F%9B%E6%B5%81.md)
 
  - [流操作的規律](https://github.com/jack870131/java-note/blob/master/IO/%E6%B5%81%E6%93%8D%E4%BD%9C%E7%9A%84%E8%A6%8F%E5%BE%8B.md)
 
