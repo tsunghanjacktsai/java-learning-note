@@ -149,23 +149,23 @@ Have a cup of Java!
 
  - [轉換流](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/%E8%BD%89%E6%8F%9B%E6%B5%81.md)
 
- - [流操作的規律](https://github.com/jack870131/java-note/blob/master/IO/%E6%B5%81%E6%93%8D%E4%BD%9C%E7%9A%84%E8%A6%8F%E5%BE%8B.md)
+ - [流操作的基本規律](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/%E6%B5%81%E6%93%8D%E4%BD%9C%E7%9A%84%E8%A6%8F%E5%BE%8B.md)
 
- - [File 類](https://github.com/jack870131/java-note/blob/master/IO/File%20%E9%A1%9E.md)
+ - [File 類](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/File%20%E9%A1%9E.md)
 
- - [File 類事例](https://github.com/jack870131/java-note/blob/master/IO/File%20%E9%A1%9E%E4%BA%8B%E4%BE%8B.md)
+ - [File 類事例](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/File%20%E9%A1%9E%E4%BA%8B%E4%BE%8B.md)
 
- - [Properties 集合](https://github.com/jack870131/java-note/blob/master/IO/Properties%20%E9%9B%86%E5%90%88.md)
+ - [Properties 集合](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/Properties%20%E9%9B%86%E5%90%88.md)
 
- - [IO 綜合練習](https://github.com/jack870131/java-note/blob/master/IO/IO%20%E7%B6%9C%E5%90%88%E7%B7%B4%E7%BF%92.md)
+ - [IO 綜合練習](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/IO%20%E7%B6%9C%E5%90%88%E7%B7%B4%E7%BF%92.md)
 
- - [打印流](https://github.com/jack870131/java-note/blob/master/IO/%E6%89%93%E5%8D%B0%E6%B5%81.md)
+ - [打印流](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/%E6%89%93%E5%8D%B0%E6%B5%81.md)
  
- - [序列流](https://github.com/jack870131/java-note/blob/master/IO/%E5%BA%8F%E5%88%97%E6%B5%81.md)
+ - [序列流](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/%E5%BA%8F%E5%88%97%E6%B5%81.md)
 
- - [文件切割&合併](https://github.com/jack870131/java-note/blob/master/IO/%E6%96%87%E4%BB%B6%E5%88%87%E5%89%B2%26%E5%90%88%E4%BD%B5.md)
+ - [文件切割&合併](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/%E6%96%87%E4%BB%B6%E5%88%87%E5%89%B2%26%E5%90%88%E4%BD%B5.md)
 
- - [Properties 集合事例](https://github.com/jack870131/java-note/blob/master/IO/Properties%20%E9%9B%86%E5%90%88%E4%BA%8B%E4%BE%8B.md)
+ - [Properties 集合事例](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/Properties%20%E9%9B%86%E5%90%88%E4%BA%8B%E4%BE%8B.md)
 
  - [對象序列化](https://github.com/jack870131/java-note/blob/master/IO/%E5%B0%8D%E8%B1%A1%E5%BA%8F%E5%88%97%E5%8C%96.md)
 
