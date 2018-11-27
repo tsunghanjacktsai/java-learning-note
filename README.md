@@ -167,19 +167,19 @@ Have a cup of Java!
 
  - [Properties 集合事例](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/Properties%20%E9%9B%86%E5%90%88%E4%BA%8B%E4%BE%8B.md)
 
- - [對象序列化](https://github.com/jack870131/java-note/blob/master/IO/%E5%B0%8D%E8%B1%A1%E5%BA%8F%E5%88%97%E5%8C%96.md)
+ - [對象序列化](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/%E5%B0%8D%E8%B1%A1%E5%BA%8F%E5%88%97%E5%8C%96.md)
 
- - [RandomAccessFile](https://github.com/jack870131/java-note/blob/master/IO/%E5%B0%8D%E8%B1%A1%E5%BA%8F%E5%88%97%E5%8C%96.md)
+ - [RandomAccessFile](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/RandomAccessFile.md)
 
- - [管道流](https://github.com/jack870131/java-note/blob/master/IO/%E7%AE%A1%E9%81%93%E6%B5%81.md)
+ - [管道流](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/%E7%AE%A1%E9%81%93%E6%B5%81.md)
 
- - [DataStream](https://github.com/jack870131/java-note/blob/master/IO/DataStream.md)
+ - [DataStream](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/DataStream.md)
 
- - [ArrayStream](https://github.com/jack870131/java-note/blob/master/IO/ArrayStream.md)
+ - [ArrayStream](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/ArrayStream.md)
 
- - [編碼表](https://github.com/jack870131/java-note/blob/master/IO/%E7%B7%A8%E7%A2%BC%E8%A1%A8.md)
+ - [編碼表](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/%E7%B7%A8%E7%A2%BC%E8%A1%A8.md)
 
- - [按字節擷取字符串](https://github.com/jack870131/java-note/blob/master/IO/%E6%8C%89%E5%AD%97%E7%AF%80%E6%88%AA%E5%8F%96%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
+ - [按字節擷取字符串](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/%E6%8C%89%E5%AD%97%E7%AF%80%E6%88%AA%E5%8F%96%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
 
 ### 網絡編程
  - [概述](https://github.com/jack870131/java-note/blob/master/Network/%E6%A6%82%E8%BF%B0.md)
