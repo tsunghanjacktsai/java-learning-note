@@ -182,21 +182,21 @@ Have a cup of Java!
  - [按字節擷取字符串](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/%E6%8C%89%E5%AD%97%E7%AF%80%E6%88%AA%E5%8F%96%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
 
 ### 網絡編程
- - [概述](https://github.com/jack870131/java-note/blob/master/Network/%E6%A6%82%E8%BF%B0.md)
+ - [概述](https://github.com/jack870131/awesome-java-note-cn/blob/master/Network/%E6%A6%82%E8%BF%B0.md)
 
- - [UDP 協議](https://github.com/jack870131/java-note/blob/master/Network/UDP%20%E5%8D%94%E8%AD%B0.md)
+ - [UDP 協議](https://github.com/jack870131/awesome-java-note-cn/blob/master/Network/UDP%20%E5%8D%94%E8%AD%B0.md)
  
- - [TCP 協議](https://github.com/jack870131/java-note/blob/master/Network/TCP%20%E5%8D%94%E8%AD%B0.md)
+ - [TCP 協議](https://github.com/jack870131/awesome-java-note-cn/blob/master/Network/TCP%20%E5%8D%94%E8%AD%B0.md)
  
- - [TCP 協議事例 - 1](https://github.com/jack870131/java-note/blob/master/Network/TCP%20%E5%8D%94%E8%AD%B0%E4%BA%8B%E4%BE%8B%20-%201.md)
+ - [TCP 協議事例 - 1](https://github.com/jack870131/awesome-java-note-cn/blob/master/Network/TCP%20%E5%8D%94%E8%AD%B0%E4%BA%8B%E4%BE%8B%20-%201.md)
 
- - [TCP 協議事例 - 2](https://github.com/jack870131/java-note/blob/master/Network/TCP%20%E5%8D%94%E8%AD%B0%E4%BA%8B%E4%BE%8B%20-%202.md)
+ - [TCP 協議事例 - 2](https://github.com/jack870131/awesome-java-note-cn/blob/master/Network/TCP%20%E5%8D%94%E8%AD%B0%E4%BA%8B%E4%BE%8B%20-%202.md)
 
- - [TCP 協議事例 - 3](https://github.com/jack870131/java-note/blob/master/Network/TCP%20%E5%8D%94%E8%AD%B0%E4%BA%8B%E4%BE%8B%20-%203.md)
+ - [TCP 協議事例 - 3](https://github.com/jack870131/awesome-java-note-cn/blob/master/Network/TCP%20%E5%8D%94%E8%AD%B0%E4%BA%8B%E4%BE%8B%20-%203.md)
 
- - [常見客戶端 & 服務端](https://github.com/jack870131/java-note/blob/master/Network/%E5%B8%B8%E8%A6%8B%E5%AE%A2%E6%88%B6%E7%AB%AF%20%26%20%E6%9C%8D%E5%8B%99%E7%AB%AF.md)
+ - [常見客戶端 & 服務端](https://github.com/jack870131/awesome-java-note-cn/blob/master/Network/%E5%B8%B8%E8%A6%8B%E5%AE%A2%E6%88%B6%E7%AB%AF%20%26%20%E6%9C%8D%E5%8B%99%E7%AB%AF.md)
 
- - [URL & URL Connection](https://github.com/jack870131/java-note/blob/master/Network/URL%20%26%20URL%20Connection.md)
+ - [URL & URL Connection](https://github.com/jack870131/awesome-java-note-cn/blob/master/Network/URL%20%26%20URL%20Connection.md)
 
  - [常見網絡結構](https://github.com/jack870131/awesome-java-note-cn/blob/master/Network/%E5%B8%B8%E8%A6%8B%E7%B6%B2%E7%B5%A1%E7%B5%90%E6%A7%8B.md)
 
