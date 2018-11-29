@@ -304,3 +304,5 @@ Have a cup of Java!
 - [概述](https://github.com/jack870131/awesome-java-note-cn/blob/master/DOM/%E6%A6%82%E8%BF%B0.md)
 
 - [window 對象 - 對象](https://github.com/jack870131/awesome-java-note-cn/blob/master/DOM/window%20%E5%B0%8D%E8%B1%A1%20-%20%E5%B0%8D%E8%B1%A1.md)
+
+- [window 對象 - 方法](https://github.com/jack870131/awesome-java-note-cn/blob/master/DOM/window%20%E5%B0%8D%E8%B1%A1%20-%20%E6%96%B9%E6%B3%95.md)
