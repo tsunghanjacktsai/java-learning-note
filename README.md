@@ -308,3 +308,5 @@ Have a cup of Java!
 - [window 對象 - 方法](https://github.com/jack870131/awesome-java-note-cn/blob/master/DOM/window%20%E5%B0%8D%E8%B1%A1%20-%20%E6%96%B9%E6%B3%95.md)
 
 - [window 對象 - 事件](https://github.com/jack870131/awesome-java-note-cn/blob/master/DOM/window%20%E5%B0%8D%E8%B1%A1%20-%20%E4%BA%8B%E4%BB%B6.md)
+
+- [window 對象 - 練習](https://github.com/jack870131/awesome-java-note-cn/blob/master/DOM/window%20%E5%B0%8D%E8%B1%A1%20-%20%E7%B7%B4%E7%BF%92.md)
