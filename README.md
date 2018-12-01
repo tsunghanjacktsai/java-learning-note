@@ -298,7 +298,7 @@ Have a cup of Java!
 
 - [全局方法 & Number 對象](https://github.com/jack870131/awesome-java-note-cn/blob/master/JavaScript/%E5%85%A8%E5%B1%80%E6%96%B9%E6%B3%95%20%26%20Number%20%E5%B0%8D%E8%B1%A1.md)
 
-- [JS自訂義對象](https://github.com/jack870131/awesome-java-note-cn/edit/master/JavaScript/JS%20%E8%87%AA%E8%A8%82%E7%BE%A9%E5%B0%8D%E8%B1%A1.md)
+- [JS自訂義對象](https://github.com/jack870131/awesome-java-note-cn/blob/master/JavaScript/JS%20%E8%87%AA%E8%A8%82%E7%BE%A9%E5%B0%8D%E8%B1%A1.md)
 
 ### DOM
 - [概述](https://github.com/jack870131/awesome-java-note-cn/blob/master/DOM/%E6%A6%82%E8%BF%B0.md)
