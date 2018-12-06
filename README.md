@@ -316,3 +316,5 @@ Have a cup of Java!
 - [節點層次關係](https://github.com/jack870131/awesome-java-note-cn/blob/master/DOM/%E7%AF%80%E9%BB%9E%E5%B1%A4%E6%AC%A1%E9%97%9C%E4%BF%82.md)
 
 - [節點操作 - 增刪改](https://github.com/jack870131/awesome-java-note-cn/blob/master/DOM/%E7%AF%80%E9%BB%9E%E6%93%8D%E4%BD%9C%20-%20%E5%A2%9E%E5%88%AA%E6%94%B9.md)
+
+- [新聞字體](https://github.com/jack870131/awesome-java-note-cn/blob/master/DOM/%E6%96%B0%E8%81%9E%E5%AD%97%E9%AB%94.md)
