@@ -320,3 +320,5 @@ Have a cup of Java!
 - [新聞字體](https://github.com/jack870131/awesome-java-note-cn/blob/master/DOM/%E6%96%B0%E8%81%9E%E5%AD%97%E9%AB%94.md)
 
 - [展開閉合列表](https://github.com/jack870131/awesome-java-note-cn/blob/master/DOM/%E5%B1%95%E9%96%8B%E9%96%89%E5%90%88%E5%88%97%E8%A1%A8.md)
+
+- [好友菜單](https://github.com/jack870131/awesome-java-note-cn/blob/master/DOM/%E5%A5%BD%E5%8F%8B%E8%8F%9C%E5%96%AE.md)
