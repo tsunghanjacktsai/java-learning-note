@@ -330,3 +330,5 @@ Have a cup of Java!
 - [表格排序](https://github.com/jack870131/awesome-java-note-cn/blob/master/DOM/%E8%A1%A8%E6%A0%BC%E6%8E%92%E5%BA%8F.md)
 
 - [全選商品列表](https://github.com/jack870131/awesome-java-note-cn/blob/master/DOM/%E5%85%A8%E9%81%B8%E5%95%86%E5%93%81%E5%88%97%E8%A1%A8.md)
+
+- [郵件列表](https://github.com/jack870131/awesome-java-note-cn/blob/master/DOM/%E9%83%B5%E4%BB%B6%E5%88%97%E8%A1%A8.md)
