@@ -336,3 +336,5 @@ Have a cup of Java!
 - [調查問卷](https://github.com/jack870131/awesome-java-note-cn/blob/master/DOM/%E8%AA%BF%E6%9F%A5%E5%95%8F%E5%8D%B7.md)
 
 - [下拉菜單](https://github.com/jack870131/awesome-java-note-cn/blob/master/DOM/%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%96%AE.md)
+
+- [添加 & 刪除郵件](https://github.com/jack870131/awesome-java-note-cn/blob/master/DOM/%E6%B7%BB%E5%8A%A0%20%26%20%E5%88%AA%E9%99%A4%E9%99%84%E4%BB%B6.md)
