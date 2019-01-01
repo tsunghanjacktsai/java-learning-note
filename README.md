@@ -338,3 +338,5 @@ Have a cup of Java!
 - [下拉菜單](https://github.com/jack870131/awesome-java-note-cn/blob/master/DOM/%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%96%AE.md)
 
 - [添加 & 刪除郵件](https://github.com/jack870131/awesome-java-note-cn/blob/master/DOM/%E6%B7%BB%E5%8A%A0%20%26%20%E5%88%AA%E9%99%A4%E9%99%84%E4%BB%B6.md)
+
+- [表單校驗](https://github.com/jack870131/awesome-java-note-cn/blob/master/DOM/%E8%A1%A8%E5%96%AE%E6%A0%A1%E9%A9%97.md)
