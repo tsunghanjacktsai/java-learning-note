@@ -343,3 +343,5 @@ Have a cup of Java!
 
 ### XML
 - [簡介](https://github.com/jack870131/awesome-java-note-cn/blob/master/XML/%E7%B0%A1%E4%BB%8B.md)
+
+- [XML 語法](https://github.com/jack870131/awesome-java-note-cn/blob/master/XML/XML%20%E8%AA%9E%E6%B3%95.md)
