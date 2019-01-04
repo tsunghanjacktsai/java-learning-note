@@ -346,4 +346,6 @@ Have a cup of Java!
 
 - [XML 語法](https://github.com/jack870131/awesome-java-note-cn/blob/master/XML/XML%20%E8%AA%9E%E6%B3%95.md)
 
-- [XML 約束 - dtd](https://github.com/jack870131/awesome-java-note-cn/blob/master/XML/xml%20%20%E7%B4%84%E6%9D%9F%20-%20dtd.md)
+- [XML 約束 - dtd](https://github.com/jack870131/awesome-java-note-cn/blob/master/XML/XML%20%20%E7%B4%84%E6%9D%9F%20-%20dtd.md)
+
+- [dtd 定義屬性]()
