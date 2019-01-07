@@ -27,11 +27,11 @@
     **getTextCotent():** 得到標籤裡面的內容。
    **item(int index):** 下標取到具體的值。
    
-       ```
-        for(int i = 0; i < list.getLength(); i++ {
-            list.item(i); 
-        }
-       ```
+```
+for(int i = 0; i < list.getLength(); i++ {
+    list.item(i); 
+}
+```
     
   <br>
  - DocumentBuilderFactory (解析器工廠): 抽象類，不能 new，可以透過 **newInstance()** 獲取 DocumentBuilderFactory 實例。
