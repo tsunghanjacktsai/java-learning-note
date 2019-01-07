@@ -351,3 +351,5 @@ Have a cup of Java!
 - [dtd 定義屬性](https://github.com/jack870131/awesome-java-note-cn/blob/master/XML/dtd%20%E5%AE%9A%E7%BE%A9%E5%B1%AC%E6%80%A7.md)
 
 - [XML 的解析](https://github.com/jack870131/awesome-java-note-cn/blob/master/XML/XML%20%E7%9A%84%E8%A7%A3%E6%9E%90.md)
+
+- [jaxp 介紹](https://github.com/jack870131/awesome-java-note-cn/blob/master/XML/jaxp%20%E4%BB%8B%E7%B4%B9.md)
