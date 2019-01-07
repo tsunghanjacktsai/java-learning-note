@@ -34,6 +34,6 @@
        ```
     
   <br>
-  - **DocumentBuilderFactory (解析器工廠):** **抽象類**，不能 new，可以透過 **newInstance()** 獲取 DocumentBuilderFactory 實例。
+ - DocumentBuilderFactory (解析器工廠): 抽象類，不能 new，可以透過 **newInstance()** 獲取 DocumentBuilderFactory 實例。
  - **SAXParser (解析器類)**
  - **SAXParseFactory (解析器工廠)**
