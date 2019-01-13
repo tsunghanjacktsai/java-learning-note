@@ -361,3 +361,5 @@ Have a cup of Java!
 - [schema 約束](https://github.com/jack870131/awesome-java-note-cn/blob/master/XML/schema%20%E7%B4%84%E6%9D%9F.md)
 
 - [sax 的解析](https://github.com/jack870131/awesome-java-note-cn/blob/master/XML/sax%20%E7%9A%84%E8%A7%A3%E6%9E%90.md)
+
+- [dom4j 的介紹](https://github.com/jack870131/awesome-java-note-cn/blob/master/XML/dom4j%20%E4%BB%8B%E7%B4%B9.md)
