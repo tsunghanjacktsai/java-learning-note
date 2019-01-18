@@ -365,3 +365,5 @@ Have a cup of Java!
 - [dom4j 介紹](https://github.com/jack870131/awesome-java-note-cn/blob/master/XML/dom4j%20%E4%BB%8B%E7%B4%B9.md)
 
 - [dom4j 查詢](https://github.com/jack870131/awesome-java-note-cn/blob/master/XML/dom4j%20%E6%9F%A5%E8%A9%A2.md)
+
+- [dom4j 添加](https://github.com/jack870131/awesome-java-note-cn/blob/master/XML/dom4j%20%E6%B7%BB%E5%8A%A0.md)
