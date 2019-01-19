@@ -370,4 +370,6 @@ Have a cup of Java!
 
 - [dom4j 修改](https://github.com/jack870131/awesome-java-note-cn/blob/master/XML/dom4j%20%E4%BF%AE%E6%94%B9.md)
 
+- [dom4j 刪除](https://github.com/jack870131/awesome-java-note-cn/blob/master/XML/dom4j%20%E5%88%AA%E9%99%A4.md)
+
 - [XPATH](https://github.com/jack870131/awesome-java-note-cn/blob/master/XML/XPATH.md)
