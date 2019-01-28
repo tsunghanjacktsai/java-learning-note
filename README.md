@@ -378,3 +378,5 @@ Have a cup of Java!
 
 ### Java Web
 - [HTTP 協議](https://github.com/jack870131/awesome-java-note-cn/blob/master/Java%20Web/HTTP%E5%8D%94%E8%AD%B0.md)
+
+- [Servlet](https://github.com/jack870131/awesome-java-note-cn/blob/master/Java%20Web/Servlet.md)
