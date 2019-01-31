@@ -382,3 +382,5 @@ Have a cup of Java!
 - [Servlet](https://github.com/jack870131/awesome-java-note-cn/blob/master/Java%20Web/Servlet.md)
 
 - [服務器](https://github.com/jack870131/awesome-java-note-cn/blob/master/Java%20Web/%E6%9C%8D%E5%8B%99%E5%99%A8.md)
+
+- [編碼](https://github.com/jack870131/awesome-java-note-cn/blob/master/Java%20Web/%E7%B7%A8%E7%A2%BC.md)
