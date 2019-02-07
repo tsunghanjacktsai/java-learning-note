@@ -389,4 +389,4 @@ Have a cup of Java!
 
 - [Cookie](https://github.com/jack870131/awesome-java-note-cn/blob/master/Java%20Web/Cookie.md)
 
-- [HttpSession]()
+- [HttpSession](https://github.com/jack870131/awesome-java-note-cn/blob/master/Java%20Web/HttpSession.md)
