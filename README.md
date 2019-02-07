@@ -388,3 +388,5 @@ Have a cup of Java!
 - [JSP](https://github.com/jack870131/awesome-java-note-cn/blob/master/Java%20Web/JSP.md)
 
 - [Cookie](https://github.com/jack870131/awesome-java-note-cn/blob/master/Java%20Web/Cookie.md)
+
+- [HttpSession]()
