@@ -390,3 +390,5 @@ Have a cup of Java!
 - [Cookie](https://github.com/jack870131/awesome-java-note-cn/blob/master/Java%20Web/Cookie.md)
 
 - [HttpSession](https://github.com/jack870131/awesome-java-note-cn/blob/master/Java%20Web/HttpSession.md)
+
+- [驗證碼](https://github.com/jack870131/awesome-java-note-cn/blob/master/Java%20Web/%E9%A9%97%E8%AD%89%E7%A2%BC.md)
