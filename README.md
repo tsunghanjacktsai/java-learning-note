@@ -393,4 +393,4 @@ Have a cup of Java!
 
 - [驗證碼](https://github.com/jack870131/awesome-java-note-cn/blob/master/Java%20Web/%E9%A9%97%E8%AD%89%E7%A2%BC.md)
 
-- [J](https://github.com/jack870131/awesome-java-note-cn/blob/master/Java%20Web/JavaBean.md)
+- [JavaBean](https://github.com/jack870131/awesome-java-note-cn/blob/master/Java%20Web/JavaBean.md)
