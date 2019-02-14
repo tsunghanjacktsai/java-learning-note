@@ -396,3 +396,5 @@ Have a cup of Java!
 - [JavaBean](https://github.com/jack870131/awesome-java-note-cn/blob/master/Java%20Web/JavaBean.md)
 
 - [EL 表達式](https://github.com/jack870131/awesome-java-note-cn/blob/master/Java%20Web/EL%20%E8%A1%A8%E9%81%94%E5%BC%8F.md)
+
+- [JSTL](https://github.com/jack870131/awesome-java-note-cn/blob/master/Java%20Web/JSTL.md)
