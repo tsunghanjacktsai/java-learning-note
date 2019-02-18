@@ -400,3 +400,5 @@ Have a cup of Java!
 - [JSTL](https://github.com/jack870131/awesome-java-note-cn/blob/master/Java%20Web/JSTL.md)
 
 - [MVC 設計模式](https://github.com/jack870131/awesome-java-note-cn/blob/master/Java%20Web/MVC%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F.md)
+
+- [Java 三層框架](https://github.com/jack870131/awesome-java-note-cn/blob/master/Java%20Web/Java%20%E4%B8%89%E5%B1%A4%E6%A1%86%E6%9E%B6.md)
