@@ -402,3 +402,5 @@ Have a cup of Java!
 - [MVC 設計模式](https://github.com/jack870131/awesome-java-note-cn/blob/master/Java%20Web/MVC%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F.md)
 
 - [Java 三層框架](https://github.com/jack870131/awesome-java-note-cn/blob/master/Java%20Web/Java%20%E4%B8%89%E5%B1%A4%E6%A1%86%E6%9E%B6.md)
+
+- [小項目: 用戶註冊登陸](https://github.com/jack870131/awesome-java-note-cn/blob/master/Java%20Web/%E5%B0%8F%E9%A0%85%E7%9B%AE:%20%E7%94%A8%E6%88%B6%E8%A8%BB%E5%86%8A%E7%99%BB%E9%99%B8.md)
