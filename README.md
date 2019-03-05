@@ -412,3 +412,5 @@ Have a cup of Java!
 - [粗粒度權限控制(攔截是否登錄、攔截用戶名 admin 權限)](https://github.com/jack870131/awesome-java-note-cn/blob/master/Java%20Web/%E7%B2%97%E7%B2%92%E5%BA%A6%E6%AC%8A%E9%99%90%E6%8E%A7%E5%88%B6(%E6%94%94%E6%88%AA%E6%98%AF%E5%90%A6%E7%99%BB%E9%8C%84%E3%80%81%E6%94%94%E6%88%AA%E7%94%A8%E6%88%B6%E5%90%8D%20admin%20%E6%AC%8A%E9%99%90).md)
 
 - [解決全站字符亂碼(POST & GET 中文編碼問題)](https://github.com/jack870131/awesome-java-note-cn/blob/master/Java%20Web/%E8%A7%A3%E6%B1%BA%E5%85%A8%E7%AB%99%E5%AD%97%E7%AC%A6%E4%BA%82%E7%A2%BC(POST%20%26%20GET%20%E4%B8%AD%E6%96%87%E7%B7%A8%E7%A2%BC%E5%95%8F%E9%A1%8C).md)
+
+- [頁面靜態化](https://github.com/jack870131/awesome-java-note-cn/blob/master/Java%20Web/%E9%A0%81%E9%9D%A2%E9%9D%9C%E6%85%8B%E5%8C%96.md)
