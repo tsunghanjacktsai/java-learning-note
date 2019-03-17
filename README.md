@@ -422,3 +422,5 @@ Have a cup of Java!
 - [JavaMail](https://github.com/jack870131/awesome-java-note-cn/blob/master/Java%20Web/JavaMail.md)
 
 - [AJAX](https://github.com/jack870131/awesome-java-note-cn/blob/master/Java%20Web/AJAX.md)
+
+- [XStream](https://github.com/jack870131/awesome-java-note-cn/blob/master/Java%20Web/XStream.md)
