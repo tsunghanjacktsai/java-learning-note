@@ -426,3 +426,5 @@ Have a cup of Java!
 - [XStream](https://github.com/jack870131/awesome-java-note-cn/blob/master/Java%20Web/XStream.md)
 
 - [JSON](https://github.com/jack870131/awesome-java-note-cn/blob/master/Java%20Web/JSON.md)
+
+- [AJAX 小工具](https://github.com/jack870131/awesome-java-note-cn/blob/master/Java%20Web/AJAX%20%E5%B0%8F%E5%B7%A5%E5%85%B7.md)
