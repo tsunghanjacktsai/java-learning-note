@@ -1,4 +1,4 @@
-# Java-Note
+# Awesome Java Note
 
 ## Introduction
 Have a cup of Java!
