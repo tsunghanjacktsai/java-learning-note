@@ -428,3 +428,5 @@ Have a cup of Java!
 - [JSON](https://github.com/jack870131/awesome-java-note-cn/blob/master/Java%20Web/JSON.md)
 
 - [AJAX 小工具](https://github.com/jack870131/awesome-java-note-cn/blob/master/Java%20Web/AJAX%20%E5%B0%8F%E5%B7%A5%E5%85%B7.md)
+
+- [JSON 版省市連聯動](https://github.com/jack870131/awesome-java-note-cn/blob/master/Java%20Web/JSON%20%E7%89%88%E7%9C%81%E5%B8%82%E8%81%AF%E5%8B%95.md)
