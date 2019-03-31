@@ -46,6 +46,7 @@ Have a cup of Java!
 
  - [泛型](https://github.com/jack870131/awesome-java-note-cn/blob/master/Object%20Oriented/%E6%B3%9B%E5%9E%8B.md)
  
+ - [注解](https://github.com/jack870131/awesome-java-note-cn/blob/master/Object%20Oriented/%E6%B3%A8%E8%A7%A3.md)
  
 ### 數組
  - [排序](https://github.com/jack870131/awesome-java-note-cn/blob/master/Array/%E6%8E%92%E5%BA%8F.md)
@@ -111,120 +112,120 @@ Have a cup of Java!
  - [Calendar 類](https://github.com/jack870131/awesome-java-note-cn/blob/master/API-Other/Calendar%20%E9%A1%9E.md)
 
 ### IO 流
- - [輸入流與輸出流](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/%E8%BC%B8%E5%85%A5%E6%B5%81%E8%88%87%E8%BC%B8%E5%87%BA%E6%B5%81.md)
+- [輸入流與輸出流](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/%E8%BC%B8%E5%85%A5%E6%B5%81%E8%88%87%E8%BC%B8%E5%87%BA%E6%B5%81.md)
 
- - [FileWriter](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/FileWriter.md)
+- [FileWriter](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/FileWriter.md)
 
- - [IOException](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/IOException.md)
+- [IOException](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/IOException.md)
 
- - [緩沖區](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/%E7%B7%A9%E6%B2%96%E5%8D%80.md)
+- [緩沖區](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/%E7%B7%A9%E6%B2%96%E5%8D%80.md)
 
- - [自定義讀取緩沖區](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/%E8%87%AA%E5%AE%9A%E7%BE%A9%E8%AE%80%E5%8F%96%E7%B7%A9%E6%B2%96%E5%8D%80.md)
+- [自定義讀取緩沖區](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/%E8%87%AA%E5%AE%9A%E7%BE%A9%E8%AE%80%E5%8F%96%E7%B7%A9%E6%B2%96%E5%8D%80.md)
 
- - [裝飾設計模式](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/%E8%A3%9D%E9%A3%BE%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F.md)
+- [裝飾設計模式](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/%E8%A3%9D%E9%A3%BE%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F.md)
 
- - [LineNumberReader](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/LineNumberReader.md)
+- [LineNumberReader](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/LineNumberReader.md)
 
- - [字節流](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/%E5%AD%97%E7%AF%80%E6%B5%81.md)
+- [字節流](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/%E5%AD%97%E7%AF%80%E6%B5%81.md)
 
- - [鍵盤錄入](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/%E9%8D%B5%E7%9B%A4%E9%8C%84%E5%85%A5.md)
+- [鍵盤錄入](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/%E9%8D%B5%E7%9B%A4%E9%8C%84%E5%85%A5.md)
 
- - [轉換流](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/%E8%BD%89%E6%8F%9B%E6%B5%81.md)
+- [轉換流](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/%E8%BD%89%E6%8F%9B%E6%B5%81.md)
 
- - [流操作的基本規律](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/%E6%B5%81%E6%93%8D%E4%BD%9C%E7%9A%84%E8%A6%8F%E5%BE%8B.md)
+- [流操作的基本規律](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/%E6%B5%81%E6%93%8D%E4%BD%9C%E7%9A%84%E8%A6%8F%E5%BE%8B.md)
 
- - [File 類](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/File%20%E9%A1%9E.md)
+- [File 類](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/File%20%E9%A1%9E.md)
 
- - [File 類事例](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/File%20%E9%A1%9E%E4%BA%8B%E4%BE%8B.md)
+- [File 類事例](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/File%20%E9%A1%9E%E4%BA%8B%E4%BE%8B.md)
 
- - [Properties 集合](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/Properties%20%E9%9B%86%E5%90%88.md)
+- [Properties 集合](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/Properties%20%E9%9B%86%E5%90%88.md)
 
- - [IO 綜合練習](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/IO%20%E7%B6%9C%E5%90%88%E7%B7%B4%E7%BF%92.md)
+- [IO 綜合練習](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/IO%20%E7%B6%9C%E5%90%88%E7%B7%B4%E7%BF%92.md)
 
- - [打印流](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/%E6%89%93%E5%8D%B0%E6%B5%81.md)
+- [打印流](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/%E6%89%93%E5%8D%B0%E6%B5%81.md)
  
- - [序列流](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/%E5%BA%8F%E5%88%97%E6%B5%81.md)
+- [序列流](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/%E5%BA%8F%E5%88%97%E6%B5%81.md)
 
- - [文件切割&合併](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/%E6%96%87%E4%BB%B6%E5%88%87%E5%89%B2%26%E5%90%88%E4%BD%B5.md)
+- [文件切割&合併](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/%E6%96%87%E4%BB%B6%E5%88%87%E5%89%B2%26%E5%90%88%E4%BD%B5.md)
 
- - [Properties 集合事例](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/Properties%20%E9%9B%86%E5%90%88%E4%BA%8B%E4%BE%8B.md)
+- [Properties 集合事例](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/Properties%20%E9%9B%86%E5%90%88%E4%BA%8B%E4%BE%8B.md)
 
- - [對象序列化](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/%E5%B0%8D%E8%B1%A1%E5%BA%8F%E5%88%97%E5%8C%96.md)
+- [對象序列化](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/%E5%B0%8D%E8%B1%A1%E5%BA%8F%E5%88%97%E5%8C%96.md)
 
- - [RandomAccessFile](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/RandomAccessFile.md)
+- [RandomAccessFile](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/RandomAccessFile.md)
 
- - [管道流](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/%E7%AE%A1%E9%81%93%E6%B5%81.md)
+- [管道流](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/%E7%AE%A1%E9%81%93%E6%B5%81.md)
 
- - [DataStream](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/DataStream.md)
+- [DataStream](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/DataStream.md)
 
- - [ArrayStream](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/ArrayStream.md)
+- [ArrayStream](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/ArrayStream.md)
 
- - [編碼表](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/%E7%B7%A8%E7%A2%BC%E8%A1%A8.md)
+- [編碼表](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/%E7%B7%A8%E7%A2%BC%E8%A1%A8.md)
 
- - [按字節擷取字符串](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/%E6%8C%89%E5%AD%97%E7%AF%80%E6%88%AA%E5%8F%96%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
+- [按字節擷取字符串](https://github.com/jack870131/awesome-java-note-cn/blob/master/IO/%E6%8C%89%E5%AD%97%E7%AF%80%E6%88%AA%E5%8F%96%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
 
 ### 網絡編程
- - [概述](https://github.com/jack870131/awesome-java-note-cn/blob/master/Network/%E6%A6%82%E8%BF%B0.md)
+- [概述](https://github.com/jack870131/awesome-java-note-cn/blob/master/Network/%E6%A6%82%E8%BF%B0.md)
 
- - [UDP 協議](https://github.com/jack870131/awesome-java-note-cn/blob/master/Network/UDP%20%E5%8D%94%E8%AD%B0.md)
+- [UDP 協議](https://github.com/jack870131/awesome-java-note-cn/blob/master/Network/UDP%20%E5%8D%94%E8%AD%B0.md)
  
- - [TCP 協議](https://github.com/jack870131/awesome-java-note-cn/blob/master/Network/TCP%20%E5%8D%94%E8%AD%B0.md)
+- [TCP 協議](https://github.com/jack870131/awesome-java-note-cn/blob/master/Network/TCP%20%E5%8D%94%E8%AD%B0.md)
  
- - [TCP 協議事例 - 1](https://github.com/jack870131/awesome-java-note-cn/blob/master/Network/TCP%20%E5%8D%94%E8%AD%B0%E4%BA%8B%E4%BE%8B%20-%201.md)
+- [TCP 協議事例 - 1](https://github.com/jack870131/awesome-java-note-cn/blob/master/Network/TCP%20%E5%8D%94%E8%AD%B0%E4%BA%8B%E4%BE%8B%20-%201.md)
 
- - [TCP 協議事例 - 2](https://github.com/jack870131/awesome-java-note-cn/blob/master/Network/TCP%20%E5%8D%94%E8%AD%B0%E4%BA%8B%E4%BE%8B%20-%202.md)
+- [TCP 協議事例 - 2](https://github.com/jack870131/awesome-java-note-cn/blob/master/Network/TCP%20%E5%8D%94%E8%AD%B0%E4%BA%8B%E4%BE%8B%20-%202.md)
 
- - [TCP 協議事例 - 3](https://github.com/jack870131/awesome-java-note-cn/blob/master/Network/TCP%20%E5%8D%94%E8%AD%B0%E4%BA%8B%E4%BE%8B%20-%203.md)
+- [TCP 協議事例 - 3](https://github.com/jack870131/awesome-java-note-cn/blob/master/Network/TCP%20%E5%8D%94%E8%AD%B0%E4%BA%8B%E4%BE%8B%20-%203.md)
 
- - [常見客戶端 & 服務端](https://github.com/jack870131/awesome-java-note-cn/blob/master/Network/%E5%B8%B8%E8%A6%8B%E5%AE%A2%E6%88%B6%E7%AB%AF%20%26%20%E6%9C%8D%E5%8B%99%E7%AB%AF.md)
+- [常見客戶端 & 服務端](https://github.com/jack870131/awesome-java-note-cn/blob/master/Network/%E5%B8%B8%E8%A6%8B%E5%AE%A2%E6%88%B6%E7%AB%AF%20%26%20%E6%9C%8D%E5%8B%99%E7%AB%AF.md)
 
- - [URL & URL Connection](https://github.com/jack870131/awesome-java-note-cn/blob/master/Network/URL%20%26%20URL%20Connection.md)
+- [URL & URL Connection](https://github.com/jack870131/awesome-java-note-cn/blob/master/Network/URL%20%26%20URL%20Connection.md)
 
- - [常見網絡結構](https://github.com/jack870131/awesome-java-note-cn/blob/master/Network/%E5%B8%B8%E8%A6%8B%E7%B6%B2%E7%B5%A1%E7%B5%90%E6%A7%8B.md)
+- [常見網絡結構](https://github.com/jack870131/awesome-java-note-cn/blob/master/Network/%E5%B8%B8%E8%A6%8B%E7%B6%B2%E7%B5%A1%E7%B5%90%E6%A7%8B.md)
 
 ### 反射
- - [概述](https://github.com/jack870131/awesome-java-note-cn/blob/master/Reflection/%E6%A6%82%E8%BF%B0.md)
+- [概述](https://github.com/jack870131/awesome-java-note-cn/blob/master/Reflection/%E6%A6%82%E8%BF%B0.md)
 
- - [獲取 Class 中的構造函數](https://github.com/jack870131/awesome-java-note-cn/blob/master/Reflection/%E7%8D%B2%E5%8F%96%20Class%20%E4%B8%AD%E7%9A%84%E6%A7%8B%E9%80%A0%E5%87%BD%E6%95%B8.md)
+- [獲取 Class 中的構造函數](https://github.com/jack870131/awesome-java-note-cn/blob/master/Reflection/%E7%8D%B2%E5%8F%96%20Class%20%E4%B8%AD%E7%9A%84%E6%A7%8B%E9%80%A0%E5%87%BD%E6%95%B8.md)
 
- - [獲取 Class 中的字段](https://github.com/jack870131/awesome-java-note-cn/blob/master/Reflection/%E7%8D%B2%E5%8F%96%20Class%20%E4%B8%AD%E7%9A%84%E5%AD%97%E6%AE%B5.md)
+- [獲取 Class 中的字段](https://github.com/jack870131/awesome-java-note-cn/blob/master/Reflection/%E7%8D%B2%E5%8F%96%20Class%20%E4%B8%AD%E7%9A%84%E5%AD%97%E6%AE%B5.md)
 
- - [獲取 Class 中的方法](https://github.com/jack870131/awesome-java-note-cn/blob/master/Reflection/%E7%8D%B2%E5%8F%96%20Class%20%E4%B8%AD%E7%9A%84%E6%96%B9%E6%B3%95.md)
+- [獲取 Class 中的方法](https://github.com/jack870131/awesome-java-note-cn/blob/master/Reflection/%E7%8D%B2%E5%8F%96%20Class%20%E4%B8%AD%E7%9A%84%E6%96%B9%E6%B3%95.md)
 
- - [反射練習](https://github.com/jack870131/awesome-java-note-cn/blob/master/Reflection/%E5%8F%8D%E5%B0%84%E7%B7%B4%E7%BF%92.md)
+- [反射練習](https://github.com/jack870131/awesome-java-note-cn/blob/master/Reflection/%E5%8F%8D%E5%B0%84%E7%B7%B4%E7%BF%92.md)
  
 
 ### 多線程
- - [概念](https://github.com/jack870131/awesome-java-note-cn/blob/master/Multithread/%E6%A6%82%E5%BF%B5.md)
+- [概念](https://github.com/jack870131/awesome-java-note-cn/blob/master/Multithread/%E6%A6%82%E5%BF%B5.md)
 
- - [創建線程](https://github.com/jack870131/awesome-java-note-cn/blob/master/Multithread/%E5%89%B5%E5%BB%BA%E7%B7%9A%E7%A8%8B.md)
+- [創建線程](https://github.com/jack870131/awesome-java-note-cn/blob/master/Multithread/%E5%89%B5%E5%BB%BA%E7%B7%9A%E7%A8%8B.md)
 
- - [多線程事例](https://github.com/jack870131/awesome-java-note-cn/blob/master/Multithread/%E5%A4%9A%E7%B7%9A%E7%A8%8B%E4%BA%8B%E4%BE%8B.md)
+- [多線程事例](https://github.com/jack870131/awesome-java-note-cn/blob/master/Multithread/%E5%A4%9A%E7%B7%9A%E7%A8%8B%E4%BA%8B%E4%BE%8B.md)
 
- - [多線程安全](https://github.com/jack870131/awesome-java-note-cn/blob/master/Multithread/%E5%A4%9A%E7%B7%9A%E7%A8%8B%E5%AE%89%E5%85%A8.md)
+- [多線程安全](https://github.com/jack870131/awesome-java-note-cn/blob/master/Multithread/%E5%A4%9A%E7%B7%9A%E7%A8%8B%E5%AE%89%E5%85%A8.md)
 
- - [多線程安全示例](https://github.com/jack870131/awesome-java-note-cn/blob/master/Multithread/%E5%A4%9A%E7%B7%9A%E7%A8%8B%E5%AE%89%E5%85%A8%E7%A4%BA%E4%BE%8B.md)
+- [多線程安全示例](https://github.com/jack870131/awesome-java-note-cn/blob/master/Multithread/%E5%A4%9A%E7%B7%9A%E7%A8%8B%E5%AE%89%E5%85%A8%E7%A4%BA%E4%BE%8B.md)
 
- - [多線程下的單例模式](https://github.com/jack870131/awesome-java-note-cn/blob/master/Multithread/%E5%A4%9A%E7%B7%9A%E7%A8%8B%E4%B8%8B%E7%9A%84%E5%96%AE%E4%BE%8B%E6%A8%A1%E5%BC%8F.md)
+- [多線程下的單例模式](https://github.com/jack870131/awesome-java-note-cn/blob/master/Multithread/%E5%A4%9A%E7%B7%9A%E7%A8%8B%E4%B8%8B%E7%9A%84%E5%96%AE%E4%BE%8B%E6%A8%A1%E5%BC%8F.md)
 
- - [死鎖](https://github.com/jack870131/awesome-java-note-cn/blob/master/Multithread/%E6%AD%BB%E9%8E%96.md)
+- [死鎖](https://github.com/jack870131/awesome-java-note-cn/blob/master/Multithread/%E6%AD%BB%E9%8E%96.md)
 
- - [線程間的通訊](https://github.com/jack870131/awesome-java-note-cn/blob/master/Multithread/%E7%B7%9A%E7%A8%8B%E9%96%93%E7%9A%84%E9%80%9A%E8%A8%8A.md)
+- [線程間的通訊](https://github.com/jack870131/awesome-java-note-cn/blob/master/Multithread/%E7%B7%9A%E7%A8%8B%E9%96%93%E7%9A%84%E9%80%9A%E8%A8%8A.md)
 
- - [等待&喚醒機制事例](https://github.com/jack870131/awesome-java-note-cn/blob/master/Multithread/%E7%AD%89%E5%BE%85%26%E5%96%9A%E9%86%92%E6%A9%9F%E5%88%B6%E4%BA%8B%E4%BE%8B.md)
+- [等待&喚醒機制事例](https://github.com/jack870131/awesome-java-note-cn/blob/master/Multithread/%E7%AD%89%E5%BE%85%26%E5%96%9A%E9%86%92%E6%A9%9F%E5%88%B6%E4%BA%8B%E4%BE%8B.md)
 
- - [停止線程](https://github.com/jack870131/awesome-java-note-cn/blob/master/Multithread/%E5%81%9C%E6%AD%A2%E7%B7%9A%E7%A8%8B.md)
+- [停止線程](https://github.com/jack870131/awesome-java-note-cn/blob/master/Multithread/%E5%81%9C%E6%AD%A2%E7%B7%9A%E7%A8%8B.md)
 
 ### 正則表達式
- - [概述](https://github.com/jack870131/awesome-java-note-cn/blob/master/Regular%20Expression/%E6%A6%82%E8%BF%B0.md)
+- [概述](https://github.com/jack870131/awesome-java-note-cn/blob/master/Regular%20Expression/%E6%A6%82%E8%BF%B0.md)
 
- - [常見符號](https://github.com/jack870131/awesome-java-note-cn/tree/master/Regular%20Expression)
+- [常見符號](https://github.com/jack870131/awesome-java-note-cn/tree/master/Regular%20Expression)
 
- - [常見功能](https://github.com/jack870131/awesome-java-note-cn/blob/master/Regular%20Expression/%E5%B8%B8%E8%A6%8B%E5%8A%9F%E8%83%BD.md)
+- [常見功能](https://github.com/jack870131/awesome-java-note-cn/blob/master/Regular%20Expression/%E5%B8%B8%E8%A6%8B%E5%8A%9F%E8%83%BD.md)
  
- - [正則練習](https://github.com/jack870131/awesome-java-note-cn/blob/master/Regular%20Expression/%E6%AD%A3%E5%89%87%E7%B7%B4%E7%BF%92.md)
+- [正則練習](https://github.com/jack870131/awesome-java-note-cn/blob/master/Regular%20Expression/%E6%AD%A3%E5%89%87%E7%B7%B4%E7%BF%92.md)
 
- - [網頁爬蟲](https://github.com/jack870131/awesome-java-note-cn/blob/master/Regular%20Expression/%E7%B6%B2%E9%A0%81%E7%88%AC%E8%9F%B2.md)
+- [網頁爬蟲](https://github.com/jack870131/awesome-java-note-cn/blob/master/Regular%20Expression/%E7%B6%B2%E9%A0%81%E7%88%AC%E8%9F%B2.md)
 
 ### HTML
  - [概述](https://github.com/jack870131/awesome-java-note-cn/blob/master/HTML/%E6%A6%82%E8%BF%B0.md)
