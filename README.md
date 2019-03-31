@@ -55,6 +55,8 @@ Have a cup of Java!
 
  - [包(package)](https://github.com/jack870131/awesome-java-note-cn/blob/master/Object%20Oriented/%E5%8C%85(package).md)
 
+ - [泛型](https://github.com/jack870131/awesome-java-note-cn/blob/master/Object%20Oriented/%E6%B3%9B%E5%9E%8B.md)
+
 ### 多線程
  - [概念](https://github.com/jack870131/awesome-java-note-cn/blob/master/Multithread/%E6%A6%82%E5%BF%B5.md)
 
