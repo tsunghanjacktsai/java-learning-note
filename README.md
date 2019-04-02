@@ -437,3 +437,5 @@ Have a cup of Java!
 - [JSON 版省市聯動](https://github.com/jack870131/awesome-java-note-cn/blob/master/Java%20Web/JSON%20%E7%89%88%E7%9C%81%E5%B8%82%E8%81%AF%E5%8B%95.md)
 
 - [項目: 網上書城](https://github.com/jack870131/awesome-java-note-cn/blob/master/Java%20Web/%E9%A0%85%E7%9B%AE:%20%E7%B6%B2%E4%B8%8A%E6%9B%B8%E5%9F%8E.md)
+
+- [BeanFactory (IoC)](https://github.com/jack870131/awesome-java-note-cn/blob/master/Java%20Web/BeanFactory%20(IoC).md)
