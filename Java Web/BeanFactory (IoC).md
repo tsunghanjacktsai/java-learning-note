@@ -1,4 +1,4 @@
-# BeanFactory (IOC)
+# BeanFactory (IoC)
 
 ## Example
 ```java
