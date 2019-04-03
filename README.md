@@ -439,3 +439,5 @@ Have a cup of Java!
 - [項目: 網上書城](https://github.com/jack870131/awesome-java-note-cn/blob/master/Java%20Web/%E9%A0%85%E7%9B%AE:%20%E7%B6%B2%E4%B8%8A%E6%9B%B8%E5%9F%8E.md)
 
 - [BeanFactory (IoC)](https://github.com/jack870131/awesome-java-note-cn/blob/master/Java%20Web/BeanFactory%20(IoC).md)
+
+- [Servlet3.0 異步處理](https://github.com/jack870131/awesome-java-note-cn/commit/65ba4196781a4d73db7d11882b181d24cd1aa190)
