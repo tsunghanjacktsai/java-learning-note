@@ -441,3 +441,5 @@ Have a cup of Java!
 - [BeanFactory (IoC)](https://github.com/jack870131/awesome-java-note-cn/blob/master/Java%20Web/BeanFactory%20(IoC).md)
 
 - [Servlet3.0 異步處理](https://github.com/jack870131/awesome-java-note-cn/commit/65ba4196781a4d73db7d11882b181d24cd1aa190)
+
+- [動態代理](https://github.com/jack870131/awesome-java-note-cn/blob/master/Java%20Web/%E5%8B%95%E6%85%8B%E4%BB%A3%E7%90%86.md)
