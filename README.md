@@ -451,3 +451,5 @@ Have a cup of Java!
 - [概述](https://github.com/jack870131/awesome-java-note-cn/blob/master/Database/%E6%A6%82%E8%BF%B0.md)
 
 - [SQL](https://github.com/jack870131/awesome-java-note-cn/blob/master/Database/SQL.md)
+
+- [DDL](https://github.com/jack870131/awesome-java-note-cn/blob/master/Database/DDL.md)
