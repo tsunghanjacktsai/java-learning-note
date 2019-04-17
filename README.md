@@ -453,3 +453,5 @@ Have a cup of Java!
 - [SQL](https://github.com/jack870131/awesome-java-note-cn/blob/master/Database/SQL.md)
 
 - [DDL](https://github.com/jack870131/awesome-java-note-cn/blob/master/Database/DDL.md)
+
+- [DML](https://github.com/jack870131/awesome-java-note-cn/blob/master/Database/DML.md)
