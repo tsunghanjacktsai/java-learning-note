@@ -463,3 +463,5 @@ Have a cup of Java!
 - [編碼](https://github.com/jack870131/awesome-java-note-cn/blob/master/Database/%E7%B7%A8%E7%A2%BC.md)
 
 - [備份與恢復](https://github.com/jack870131/awesome-java-note-cn/blob/master/Database/%E5%82%99%E4%BB%BD%E8%88%87%E6%81%A2%E5%BE%A9.md)
+
+- [約束](https://github.com/jack870131/awesome-java-note-cn/blob/master/Database/約束.md)
