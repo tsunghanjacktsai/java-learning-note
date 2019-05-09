@@ -467,3 +467,7 @@ Have a cup of Java!
 - [約束](https://github.com/jack870131/awesome-java-note-cn/blob/master/Database/約束.md)
 
 - [查詢](https://github.com/jack870131/awesome-java-note-cn/blob/master/Database/%E6%9F%A5%E8%A9%A2.md)
+
+## JDBC
+
+- [概述](https://github.com/jack870131/awesome-java-note-cn/blob/master/JDBC/%E6%A6%82%E8%BF%B0.md)
