@@ -477,3 +477,5 @@ Have a cup of Java!
 - [規範化代碼](https://github.com/jack870131/awesome-java-note-cn/blob/master/JDBC/%E8%A6%8F%E7%AF%84%E5%8C%96%E4%BB%A3%E7%A2%BC.md)
 
 - [JDBC 對象介紹](https://github.com/jack870131/awesome-java-note-cn/blob/master/JDBC/JDBC%20%E5%B0%8D%E8%B1%A1%E4%BB%8B%E7%B4%B9.md)
+
+- [JDBCUtils 工具類](https://github.com/jack870131/awesome-java-note-cn/blob/master/JDBC/JdbcUtils%20%E5%B7%A5%E5%85%B7%E9%A1%9E.md)
