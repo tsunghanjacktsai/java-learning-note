@@ -487,3 +487,5 @@ Have a cup of Java!
 - [處理大數據文件](https://github.com/jack870131/awesome-java-note-cn/blob/master/JDBC/%E8%99%95%E7%90%86%E5%A4%A7%E6%95%B8%E6%93%9A%E6%96%87%E4%BB%B6.md)
 
 - [批處理](https://github.com/jack870131/awesome-java-note-cn/blob/master/JDBC/%E6%89%B9%E8%99%95%E7%90%86.md)
+
+- [事務的四大特性](https://github.com/jack870131/awesome-java-note-cn/blob/master/JDBC/%E4%BA%8B%E5%8B%99%E7%9A%84%E5%9B%9B%E5%A4%A7%E7%89%B9%E6%80%A7.md)
