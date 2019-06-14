@@ -485,3 +485,5 @@ Have a cup of Java!
 - [時間類型](https://github.com/jack870131/awesome-java-note-cn/blob/master/JDBC/%E6%99%82%E9%96%93%E9%A1%9E%E5%9E%8B.md)
 
 - [處理大數據文件](https://github.com/jack870131/awesome-java-note-cn/blob/master/JDBC/%E8%99%95%E7%90%86%E5%A4%A7%E6%95%B8%E6%93%9A%E6%96%87%E4%BB%B6.md)
+
+- [批處理](https://github.com/jack870131/awesome-java-note-cn/blob/master/JDBC/%E6%89%B9%E8%99%95%E7%90%86.md)
