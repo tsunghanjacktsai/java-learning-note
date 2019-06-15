@@ -489,3 +489,5 @@ Have a cup of Java!
 - [批處理](https://github.com/jack870131/awesome-java-note-cn/blob/master/JDBC/%E6%89%B9%E8%99%95%E7%90%86.md)
 
 - [事務的四大特性](https://github.com/jack870131/awesome-java-note-cn/blob/master/JDBC/%E4%BA%8B%E5%8B%99%E7%9A%84%E5%9B%9B%E5%A4%A7%E7%89%B9%E6%80%A7.md)
+
+- [事務的隔離級別](https://github.com/jack870131/awesome-java-note-cn/blob/master/JDBC/%E4%BA%8B%E5%8B%99%E7%9A%84%E9%9A%94%E9%9B%A2%E7%B4%9A%E5%88%A5.md)
