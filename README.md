@@ -491,3 +491,5 @@ Have a cup of Java!
 - [事務的四大特性](https://github.com/jack870131/awesome-java-note-cn/blob/master/JDBC/%E4%BA%8B%E5%8B%99%E7%9A%84%E5%9B%9B%E5%A4%A7%E7%89%B9%E6%80%A7.md)
 
 - [事務的隔離級別](https://github.com/jack870131/awesome-java-note-cn/blob/master/JDBC/%E4%BA%8B%E5%8B%99%E7%9A%84%E9%9A%94%E9%9B%A2%E7%B4%9A%E5%88%A5.md)
+
+- [數據庫連接池](https://github.com/jack870131/awesome-java-note-cn/blob/master/JDBC/%E6%95%B8%E6%93%9A%E5%BA%AB%E9%80%A3%E6%8E%A5%E6%B1%A0.md)
