@@ -503,3 +503,5 @@ Have a cup of Java!
 - [ThreadLocal](https://github.com/jack870131/awesome-java-note-cn/blob/master/JDBC/ThreadLocal.md)
 
 - [dbUtils](https://github.com/jack870131/awesome-java-note-cn/blob/master/JDBC/dbUtils.md)
+
+- [BaseServlet](https://github.com/jack870131/awesome-java-note-cn/blob/master/JDBC/BaseServlet.md)
