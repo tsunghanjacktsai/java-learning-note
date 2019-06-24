@@ -501,3 +501,5 @@ Have a cup of Java!
 - [Tomcat 配置連接池](https://github.com/jack870131/awesome-java-note-cn/blob/master/JDBC/Tomcat%20%E9%85%8D%E7%BD%AE%E9%80%A3%E6%8E%A5%E6%B1%A0.md)
 
 - [ThreadLocal](https://github.com/jack870131/awesome-java-note-cn/blob/master/JDBC/ThreadLocal.md)
+
+- [dbUtils](https://github.com/jack870131/awesome-java-note-cn/blob/master/JDBC/dbUtils.md)
