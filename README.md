@@ -511,3 +511,5 @@ Have a cup of Java!
 - [分頁](https://github.com/jack870131/awesome-java-note-cn/blob/master/JDBC/%E5%88%86%E9%A0%81.md)
 
 - [JavaWeb 監聽器](https://github.com/jack870131/awesome-java-note-cn/blob/master/JDBC/JavaWeb%20%E7%9B%A3%E8%81%BD%E5%99%A8.md)
+
+- [國際化](https://github.com/jack870131/awesome-java-note-cn/blob/master/JDBC/%E5%9C%8B%E9%9A%9B%E5%8C%96.md)
