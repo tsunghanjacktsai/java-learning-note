@@ -513,3 +513,7 @@ Have a cup of Java!
 - [JavaWeb 監聽器](https://github.com/jack870131/awesome-java-note-cn/blob/master/JDBC/JavaWeb%20%E7%9B%A3%E8%81%BD%E5%99%A8.md)
 
 - [國際化](https://github.com/jack870131/awesome-java-note-cn/blob/master/JDBC/%E5%9C%8B%E9%9A%9B%E5%8C%96.md)
+
+## Other
+
+- [Debug](https://github.com/jack870131/awesome-java-note-cn/blob/master/Other/Debug.md)
