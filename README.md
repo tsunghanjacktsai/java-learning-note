@@ -517,3 +517,5 @@ Have a cup of Java!
 ## Other
 
 - [Debug](https://github.com/jack870131/awesome-java-note-cn/blob/master/Other/Debug.md)
+
+- [JUnit](https://github.com/jack870131/awesome-java-note-cn/blob/master/Other/JUnit.md)
