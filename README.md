@@ -519,3 +519,5 @@ Have a cup of Java!
 - [Debug](https://github.com/jack870131/awesome-java-note-cn/blob/master/Other/Debug.md)
 
 - [JUnit](https://github.com/jack870131/awesome-java-note-cn/blob/master/Other/JUnit.md)
+
+- [Tomcat 配置](https://github.com/jack870131/awesome-java-note-cn/blob/master/Other/Tomcat%20%E9%85%8D%E7%BD%AE.md)
