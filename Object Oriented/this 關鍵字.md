@@ -7,10 +7,9 @@
 - this 也可以用於在構造函數中調用其他構造函數。
 注意: 只能定義在構造函數中的第一行。因為初始化動作要先執行。
 
----
 ## Example
 
-```
+```java
 public class PersonDemo {
 		
 	public static void main(String[] args) {
