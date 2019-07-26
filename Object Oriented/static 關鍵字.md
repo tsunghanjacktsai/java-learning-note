@@ -66,7 +66,7 @@
 - 隨著對象的加載而執行，優先於構造函數。
 - 作用: 如果某成員在每次對象加載都須執行，則可將其置於構造代碼塊中。
 - 形式:
-```
+```java
   class Person {
 
     {
@@ -84,7 +84,7 @@
 ---
 
 ## Example
-```
+```java
 public class Person {
 	
 	private int age;
