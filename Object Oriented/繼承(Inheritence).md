@@ -71,7 +71,7 @@ Person p = new Person();
 
 
 ## Example
-```
+```java
 public class Person {//父類
 
 	String name = "Mike";
