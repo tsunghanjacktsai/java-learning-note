@@ -34,7 +34,7 @@
    接口的實現是 like a 關係， 在定義體系的**額外**功能。
 
 ## Example
-```
+```java
 //接口格式
 interface Interface1 {
     
