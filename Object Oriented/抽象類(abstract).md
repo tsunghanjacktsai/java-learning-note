@@ -22,7 +22,7 @@
 8. 抽象類一定是父類，因為需要子類重寫其方法後才可以對子類實例化。
 
 ## Example
-```
+```java
 public abstract class AbstractCannie {//抽象類同時也是父類 -> 犬科
 	
 	public abstract void bark();//犬科共有方法 -> 吠叫
