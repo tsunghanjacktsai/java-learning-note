@@ -46,7 +46,7 @@ public class AbstractDog extends AbstractCannie {
 }
 ```
 ---
-```
+```java
 public abstract class AbstractEmployee {//抽象類、父類
 	
 	private String name;
