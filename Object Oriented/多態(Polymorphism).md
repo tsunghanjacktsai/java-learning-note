@@ -39,7 +39,7 @@
 P.S. 其實對於靜態方法，是不需要對象的。直接用類名調用即可。
 
 ## Example
-```
+```java
 public abstract class Animal {
 
     public abstract void eat();
