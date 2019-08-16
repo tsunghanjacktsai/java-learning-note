@@ -77,7 +77,7 @@ try {
 - try catch finally
 - try catch: (多個)當沒有必要資源需要釋放時，可以不用定義 finally。
 - try finally: 異常無法直接被處理，但是資源需要被關閉。
-```
+```java
 public void show() throws Exception { //沒有 catch ，必須要聲明
 
     try { //開啟資源
@@ -97,7 +97,7 @@ public void show() throws Exception { //沒有 catch ，必須要聲明
   **注意:** 如果父類的ㄤ法沒有拋出異常，那麼子類重寫時絕對不能拋，就只能 try。
   
 ## Example
-```
+```java
 public class ExceptionDemo1 {
 	
 	public int method(int[] arr, int index) throws NegativeNumException, NullPointerException { //聲明自定義負數異常，可拋出多個
