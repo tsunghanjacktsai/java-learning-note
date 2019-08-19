@@ -23,7 +23,7 @@
 - 一般直接重寫此方法。
 
 ## Example
-```
+```java
 public class Person {
 
 	private int num;
