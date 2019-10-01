@@ -35,7 +35,7 @@ List subList(from, to);
 - LinkedList: 內部是**鏈表**數據結構，是不同步的。-> **增刪元素的速度快**
 
 ## Example
-```
+```java
 import java.util.ArrayList;
 import java.util.List;
 
