@@ -1,7 +1,7 @@
 # Vector 集合
 
 ## 演示
-```
+```java
 import java.util.Enumeration;
 import java.util.Iterator;
 import java.util.Vector;
