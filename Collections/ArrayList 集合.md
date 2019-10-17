@@ -1,7 +1,7 @@
 # ArrayList 集合
 
 ## 演示
-```
+```java
 public class ArrayListPerson {
 
 	private String name;
@@ -68,7 +68,7 @@ Mike, 20
 ```
 
 ### 去除 ArrayList 中的重複元素
-```
+```java
 public class ArrayListPerson {
 
 	private String name;
