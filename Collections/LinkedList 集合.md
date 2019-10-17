@@ -20,7 +20,7 @@ removeLast();
 pollFirst();> 獲取並移除，如果鏈表為空，返回 null。
 pollLast();
 ##演示
-```
+```java
 import java.util.Iterator;
 import java.util.LinkedList;
 
@@ -80,7 +80,7 @@ remove: abc4
 2. 對列: 先進先出(First in First Out) -> FIFO
 - 我們應該描述這樣一個容器，給使用者提供一個容器完成這種結構中的一種。
 
-```
+```java
 import java.util.LinkedList;
 
 //隊列
