@@ -72,7 +72,7 @@ Have a cup of Java!
 
  - [Vector 集合](https://github.com/jack870131/awesome-java-note-cn/blob/master/Collections/Vector%20%E9%9B%86%E5%90%88.md)
 
- - [LinkedList 集合](https://github.com/jack870131/Java-Note/blob/master/Collections/LinkedList%20集合.md)
+ - [LinkedList 集合](https://github.com/jack870131/awesome-java-note/blob/master/Collections/LinkedList%20集合.md)
 
  - [ArrayList 集合](https://github.com/jack870131/awesome-java-note-cn/blob/master/Collections/ArrayList%20%E9%9B%86%E5%90%88.md)
 
