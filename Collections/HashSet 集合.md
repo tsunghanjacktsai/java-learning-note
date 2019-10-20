@@ -16,7 +16,7 @@
 
 ## 演示
 需求: 往 HashSet 集合中存儲 Person 對象。如果姓名年齡相同，視為同一個人，視為相同元素。
-```
+```java
 public class HashSetPerson {
 	
 	private String name;
