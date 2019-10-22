@@ -4,7 +4,7 @@
 形成有序的 HashSet 集合。
 
 ## 演示
-```
+```java
 import java.util.HashSet;
 import java.util.Iterator;
 import java.util.LinkedHashSet;
