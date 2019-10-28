@@ -12,7 +12,7 @@
    將該類對象作為參數傳遞給 TreeSet 集合的構造函數。
 
 ## 演示
-```
+```java
 public class TreeSetPerson implements Comparable {
 	
 	private String name;
