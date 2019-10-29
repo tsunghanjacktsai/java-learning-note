@@ -34,7 +34,7 @@ int size(); 獲取鍵值對的個數。
 
 ## 演示
 ### HashMap
-```
+```java
 public class HashMapStudent {
 	
 	private String name;
@@ -165,7 +165,7 @@ Jack @ 10 @ Shanghai
 ```
 
 ### TreeMap
-```
+```java
 public class TreeMapStudent implements Comparable {
 		
 		private String name;
