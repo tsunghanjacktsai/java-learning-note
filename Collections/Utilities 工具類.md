@@ -4,7 +4,7 @@
 是集合框架的工具類，裡面的方法都是**靜態**的。
 
 ## 演示
-```
+```java
 import java.util.Comparator;
 
 public class ToolComparator implements Comparator<String> {
@@ -207,7 +207,7 @@ Max = betrue
   所以建議，最後長度就指定為**集合的 size**。
 
 ### **List asList**
-``` 
+```java
 import java.util.Arrays;
 import java.util.List;
 
@@ -280,7 +280,7 @@ list contains: true
 ```
 ---
 ### **toArray**
-```
+```java
 import java.util.ArrayList;
 import java.util.Arrays;
 
