@@ -13,7 +13,7 @@
    鍵值相同會覆蓋，這樣就記錄了該字母的次數。
 3. 遍歷結束，Map 集合就紀錄所有字母的出現次數。
 
-```
+```java
 import java.util.Iterator;
 import java.util.Map;
 import java.util.TreeMap;
