@@ -4,7 +4,7 @@
 **哈希鏈表**: 依照存儲順序。
 
 ## 演示
-```
+```java
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.LinkedHashMap;
