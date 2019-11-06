@@ -10,7 +10,7 @@
   最好使用他自己的存儲和取出的方法來完成元素的操作。
 
 ## 演示
-```
+```java
 import java.util.Properties;
 import java.util.Set;
 
