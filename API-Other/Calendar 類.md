@@ -1,7 +1,7 @@
 # Calendar 類
 
 ## 演示
-```
+```java
 import java.util.Calendar;
 
 public class CalendarDemo {
