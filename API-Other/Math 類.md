@@ -10,7 +10,7 @@ pow(a, b): a 的 b 次方。
 random(): 該值大於等於 0.0 且小於 1.0，返回值是一個偽隨機 double 值。(有其一定規律)
 
 ## 演示
-```
+```java
 public class MathDemo {
 
 	public static void main(String[] args) {
