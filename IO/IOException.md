@@ -1,7 +1,7 @@
 # IOException
 
 ## 演示
-```
+```java
 import java.io.FileWriter;
 import java.io.IOException;
 
