@@ -16,7 +16,7 @@
    其實數據寫入到"臨時存儲緩衝區"中。
 3. 進行刷新，將數據寫入目的地中。
 
-```
+```java
 import java.io.FileWriter;
 import java.io.IOException;
 
