@@ -6,7 +6,7 @@
 - 通常該集合用於操作以鍵值對形式存在的配置文件。
 
 ## 演示
-```
+```java
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
