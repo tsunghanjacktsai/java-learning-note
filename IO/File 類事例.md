@@ -3,7 +3,7 @@
 ## 需求
 對指定目錄進行所有內容的列出(包含子目錄中的內容)，也可以理解為**深度遍歷**。
 
-```
+```java
 import java.io.File;
 
 public class FileTest {
@@ -77,7 +77,7 @@ JAVA SE Practice
 需要進行深度遍歷。
 
 ## 演示
-```
+```java
 import java.io.File;
 
 public class RemoveDirTest {
