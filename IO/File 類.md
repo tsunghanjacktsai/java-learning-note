@@ -24,7 +24,7 @@
  - 如果目錄存在但是沒有內容，會返回一個數組，但長度為 0。
 
 ## 演示
-```
+```java
 import java.io.File;
 import java.io.IOException;
 import java.text.DateFormat;
