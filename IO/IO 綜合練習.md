@@ -10,7 +10,7 @@
 2. 要在遍歷的過程中進行過濾，將符合條件的內容都存儲到容器中。
 3. 對容器中的內容進行遍歷並將絕對路徑寫入到文件中。
 
-```
+```java
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
