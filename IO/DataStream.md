@@ -4,7 +4,7 @@
 操作基本數據類型的流對象。
 
 ## 演示
-```
+```java
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
 import java.io.FileInputStream;
