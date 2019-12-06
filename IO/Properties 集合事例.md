@@ -16,7 +16,7 @@
    直接存儲次數值可以，但是不明確該數據的涵義，所以起名字很重要。這就有了名字和值的對應，所以可以使用鍵值對。
    可是映射關係由 map 集合搞定，又需要讀取硬盤上的數據，所以 map + io = Properties.
 
-```
+```java
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
