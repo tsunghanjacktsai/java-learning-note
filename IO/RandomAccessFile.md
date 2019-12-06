@@ -8,7 +8,7 @@
 5. 該對象的源或者目的只能是文件。通過**構造函數**可以看出。
 
 ## 演示
-```
+```java
 import java.io.IOException;
 import java.io.RandomAccessFile;
 
