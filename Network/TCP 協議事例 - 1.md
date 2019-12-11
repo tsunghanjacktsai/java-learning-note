@@ -35,7 +35,7 @@
 4. 獲取 Socket 輸出流，並裝飾。
 
 ## 演示
-```
+```java
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
