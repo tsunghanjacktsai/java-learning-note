@@ -24,7 +24,7 @@
 5. 關閉資源。關客戶端和服務端。
 
 ## Example
-```
+```java
 import java.io.IOException;
 import java.io.OutputStream;
 import java.net.Socket;
@@ -85,7 +85,7 @@ public class TCPServerDemo {
 192.168.0.103 @ TCP Coming
 ```
 ---
-```
+```java
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
