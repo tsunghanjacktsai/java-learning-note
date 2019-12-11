@@ -1,7 +1,7 @@
 # TCP 協議事例 - 3
 
 ## 上傳圖片客戶端
-```
+```java
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;
