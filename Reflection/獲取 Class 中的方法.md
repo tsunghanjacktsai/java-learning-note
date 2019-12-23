@@ -1,7 +1,7 @@
 # 獲取 Class 中的方法
 
 ## 演示
-```
+```java
 package Reflect;
 
 public class ReflectPerson {
