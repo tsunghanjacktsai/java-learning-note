@@ -1,7 +1,7 @@
 # 獲取 Class 中的字段
 
 ## 演示
-```
+```java
 package Reflect;
 
 public class ReflectPerson {
