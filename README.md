@@ -219,7 +219,7 @@ Have a cup of Java!
 ### 正則表達式
 - [概述](https://github.com/jack870131/awesome-java-note-cn/blob/master/Regular%20Expression/%E6%A6%82%E8%BF%B0.md)
 
-- [常見符號](https://github.com/jack870131/awesome-java-note-cn/tree/master/Regular%20Expression)
+- [常見符號](https://github.com/jack870131/awesome-java-note/blob/master/Regular%20Expression/%E5%B8%B8%E8%A6%8B%E7%AC%A6%E8%99%9F.md)
 
 - [常見功能](https://github.com/jack870131/awesome-java-note-cn/blob/master/Regular%20Expression/%E5%B8%B8%E8%A6%8B%E5%8A%9F%E8%83%BD.md)
  
