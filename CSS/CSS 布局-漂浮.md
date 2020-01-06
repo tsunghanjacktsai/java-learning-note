@@ -12,7 +12,7 @@
 - both: 不允許有浮動對象
 
 ## Example
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
