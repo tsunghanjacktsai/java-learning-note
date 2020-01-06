@@ -1,7 +1,7 @@
 # CSS 布局 - 圖文混排
 
 ## 演示
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
