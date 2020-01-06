@@ -7,7 +7,7 @@
 - relative: 對象不可層疊，但將依據 left, right, top, bottom 等屬性在正常文檔流中偏移位置。
 
 ## Example
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
