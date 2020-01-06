@@ -1,7 +1,7 @@
 # CSS 樣式的結合
 
 ## 演示
-```
+```html,css
 <!DOCTYPE html>
 <html lang="en">
 <head>
