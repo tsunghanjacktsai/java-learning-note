@@ -1,7 +1,7 @@
 # JS 練習 - 九九乘法表
 
 ## 演示
-```
+```javascript
 //table.css
 table, table td {
 	border: #040000 double 1px;
