@@ -9,7 +9,7 @@
    用來連接兩個 boolean 型的表達式。
 5. 位運算符: & | ^ >> << >>>
 6. 三元運算符: ? :
-```
+```javascript
 <!--運算符-->
 	<script type="text/javascript">
 		//1. 算數運算符
