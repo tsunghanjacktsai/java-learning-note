@@ -2,7 +2,7 @@
 
 ## 變量
 - 關鍵字: var
-```
+```javascript
 <!--變量-->
 <script type="text/javascript">
 	//定義變量，JS 是弱類型的
