@@ -6,7 +6,7 @@
 4. 循環結構: while, do while, for
 5. 其他語句: break: 跳出選擇，跳出循環
             continue: 用於循環語句，結束本次循環，繼續下次循環
-```
+```javascript
     //語句
 	<script type="text/javascript">
 	
