@@ -6,7 +6,7 @@
 1. 功能的結果
 2. 功能實現中的參與運算的未知內容
 - 格式:
-```
+```javascript
 function 函數名(參數列表) {
     函數體;
     return 返回值;//如果沒有具體返回值，return 語句可以省略不寫
@@ -27,7 +27,7 @@ function 函數名(參數列表) {
 ## 匿名函數
 - 沒有名字的函數
 - 通常是函數的簡寫形式
-```
+```javascript
 <script type="text/javascript">
 		function demo() {
 			alert("demo run");
