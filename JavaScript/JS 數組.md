@@ -14,7 +14,7 @@
    var arr2 = new Array(5, 6, 7);//定義一個數組，元素是 5, 6, 7
 
 ## 演示
-```
+```javascript
 <!DOCTYPE html>
 <html lang="en">
 <head>
