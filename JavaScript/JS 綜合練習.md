@@ -6,7 +6,7 @@
 4. 對數組元素進行反轉。
 
 ## 演示
-```
+```javascript
     <script type="text/javascript">
 
 		var arr = [1, 4, 56, 33, 20, 45]
