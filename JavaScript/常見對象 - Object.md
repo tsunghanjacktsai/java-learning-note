@@ -5,7 +5,7 @@
 2. valueOf()
 
 ## 演示
-```
+```javascript
 <script type="text/javascript">
 		function show() {
 			alert("show run");
