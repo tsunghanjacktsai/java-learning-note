@@ -1,7 +1,7 @@
 # Array 練習
 
 ## 演示
-```
+```javascript
 //out.js
 /**
  * 打印指定參數到頁面上
@@ -62,7 +62,7 @@ function println(x) {
 </html>
 ```
 ---
-```
+```javascript
 //out.js
 /**
  * 打印指定參數到頁面上
