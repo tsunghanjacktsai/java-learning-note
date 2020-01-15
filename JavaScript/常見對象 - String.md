@@ -14,7 +14,7 @@
 - Example: 虎的由來是貓，虎的原型是貓 - > 虎.prototype.爬樹的技能 = function() {}
 
 ## 演示
-```
+```javascript
 //trim.js
 //去除字符串兩端的空格
 function trim(str) {
