@@ -5,7 +5,7 @@
 2. 練習2: 給字符串添加一個功能，將字符串進行反轉。
 
 ## 演示
-```
+```javascript
 //array.js
 //將字符串返回一個數組
 String.prototype.toCharArray = function() {
