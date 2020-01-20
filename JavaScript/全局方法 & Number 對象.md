@@ -1,7 +1,7 @@
 # 全局方法 & Number 對象
 
 ## 演示
-```
+```javascript
 //out.js
 /**
  * 打印指定參數到頁面上
@@ -49,7 +49,7 @@ function println(x) {
 - 格式:
 for(變量 in 對象)//對對象進行變量的語句
 {}
-```
+```javascript
 //for in 語句
 		var arr = [32, 80, 65];
 
