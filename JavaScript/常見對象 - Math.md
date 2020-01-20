@@ -7,7 +7,7 @@
 - round 方法: 四捨五入。
 
 ## 演示
-```
+```javascript
 <!DOCTYPE html>
 <html lang="en">
 <head>
