@@ -1,7 +1,7 @@
 # 常見對象 - Date
 
 ## 演示
-```
+```javascript
 //out.js
 /**
  * 打印指定參數到頁面上
@@ -73,7 +73,7 @@ with(對象)
 {
     在該區域中可以直接使用指定的對象內容，不需要對象。
 }
-```
+```javascript
 // var year = date.getFullYear();
 // var month = date.getMonth() + 1;
 // var day = date.getDate();
