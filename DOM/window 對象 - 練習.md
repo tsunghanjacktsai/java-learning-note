@@ -4,7 +4,7 @@
 頁面一加載完成就執行。在當前頁面定義腳本，可以在 onload 事件中完成廣告的彈窗。
 
 ## 演示
-```
+```javascript
 <!DOCTYPE html>
 <html lang="en">
 <head>
