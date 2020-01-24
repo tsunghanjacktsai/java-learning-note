@@ -1,7 +1,7 @@
 # window 對象 - 事件
 
 ## 演示
-```
+```javascript
 //out.js
 /**
  * 打印指定參數到頁面上
