@@ -22,7 +22,7 @@
 ## 演示
 **需求:** 獲取頁面中的 div 節點。
 **思路:** 通過 document 對象完成。因為 div 節點有 id 屬性，所以可以通過id屬性來完成獲取。
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
