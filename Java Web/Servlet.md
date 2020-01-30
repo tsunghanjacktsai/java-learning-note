@@ -52,7 +52,7 @@
 GenericServlet 是 Servlet 接口的實現類，可以通過繼承 GenericServlet 編寫自己的 Servlet。
 
 ## HttpServlet
-```
+```java
 HttpServlet extends GenericServlet {
     void service(SerletRequest, ServletResponse) -> 生命週期方法
     //強轉兩個參數為 http 協議相關的類型
@@ -79,13 +79,13 @@ HttpServlet extends GenericServlet {
 - **讓服務器在啟動時創建 Servlet**
   默認情況下，服務器會在某個 Servlet 第一次收到請求時創建它。也可以在 web.xml 中對 Servlet 進行配置，使服務器啟動時就創建 Servlet。
 
-    ```
+    ```xml
     <load-on-startup>0<load-on-startup>
     ```
 - **url-pattern 標籤**
   url-pattern 標籤是 servlet-mapping 標籤的子元素，用來指定 Servlet 的訪問路徑，即 URL。它必須是以 "/" 開頭。
 
-    ```
+    ```xml
     <servlet-mapping>
         <servlet-name>ServletDemo</servlet-name>
         <url-pattern>/ServletDemo<url-pattern>
@@ -94,7 +94,7 @@ HttpServlet extends GenericServlet {
     ```
   可以在 url--pattern 標籤中使用**通配符**，所謂通配符就是**星號"*"**，可以匹配任何 URL 的**前綴或後綴**，使用通配符可以命名一個 Servlet 綁定一組 URL。
   
-    ```
+    ```xml
     <url-pattern>/servlet/*<url-pattern> -> /servlet/a, /servlet/b 都匹配 (路徑匹配>
     <url-pattern>*.do<url-pattern> -> /abc/def/ghi.do, /a.do 都匹配 (擴展名匹配)
     <url-pattern>/*<url-pattern> -> 匹配所有 URL。(所有都匹配)
