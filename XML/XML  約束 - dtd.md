@@ -13,17 +13,17 @@
 2. 判斷元素是簡單還複雜元素
    **複雜元素:** 有子元素的元素
    
-   ```
+   ```xml
    <!ELEMENT 元素名稱(子元素)>
    ```
    **簡單元素:** 沒有子元素
 
-   ```
+   ```xml
    <!ELEMENT 元素名稱 (#PCDATA)>
    ```
 3. 需要在 xml 文件中引入 dtd 文件
    
-   ```
+   ```xml
    <!DOCTYPE 根元素名稱 SYSTEM "dtd文件的路徑">
    ```
 - 打開 xml 文件使用瀏覽器打開，瀏覽器只負責校驗 xml 語法，不負責校驗約束。
@@ -33,7 +33,7 @@
 3. 在項目的 src 目錄下創建一個 xml 文件和一個 dtd 文件。
 4. 當 xml 中引入 dtd 文件之後，比如只能出現 name age，多寫了一個標籤，就會提示出錯。
 - Example
-    ```
+    ```xml
     //1.dtd
     <!ELEMENT person (name, age)>
     <!ELEMENT name (#PCDATA)>
@@ -52,11 +52,11 @@
 ## dtd 的三種引入方式
 - 引入外部的 dtd 文件
     
-    ```
+    ```xml
     <! DOCTYPE 根元素名稱 SYSTEM "dtd 路徑">
     ```
 - 使用內部的 dtd 文件
-    ```
+    ```xml
     <!DOCTYPE 根元素名稱 [
     	<!ELEMENT person (name, age)>
     	<!ELEMENT name (#PCDATA)>
@@ -66,7 +66,7 @@
 
 - 使用外部的 dtd 文件(網路上的 dtd 文件
     
-    ```
+    ```xml
     <!DOCTYPE 根元素 PUBLIC "dtd 元素" "dtd 文檔的 URL">
     ```
     **框架 struts2** 使用配置文件長使用外部 dtd 文件。
@@ -74,14 +74,14 @@
 ## 使用 dtd 定義元素
 - 語法
    
-    ```
+    ```xml
     <!ELEMENT 元素名 約束>
     ```
 - 簡單元素: 沒有子元素的元素。
 **(#PCDATA)** ->  約束 name 是字符串類型。
 **EMPTY** -> 元素為空(沒有內容)。
 **ANY** -> 任意。
-    ```
+    ```xml
     <!ELEMENT name (#PCDATA)>
     ```
 
@@ -91,7 +91,7 @@
 **?** -> 表示出現零次或一次
 **\*** -> 表示出現零次或多次
     
-    ```
+    ```xml
     <!ELEMENT 元素名稱 (子元素)>
     ```
 子元素直接使用**逗號**進行隔開，表示元素出現的**順序**。
@@ -99,7 +99,7 @@
 
 
 ## Example
-```
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- <!DOCTYPE person SYSTEM "1.dtd"> -->
 <!DOCTYPE person [
