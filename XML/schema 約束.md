@@ -2,7 +2,7 @@
 
 ## 介紹
 - dtd 語法: 
-```
+```xml
 <!ELEMENT 元素名稱 約束>
 ```
 - schema 符合 xml 的語法，xml 語句。
@@ -21,7 +21,7 @@
 - 看 xml 中有多少個元素 -> element
 - 複雜元素
 
-    ```
+    ```xml
     <element name="person">
     	<complexType>
     		<sequence>
@@ -31,7 +31,7 @@
     </element>
     ```
 - 簡單元素(寫在複雜元素的中間)
-    ```
+    ```xml
      <element name="person">
         	<complexType>
         		<sequence>
@@ -43,7 +43,7 @@
     ```
 
 - 在被約束文件裡面引入約束文件
-    ```
+    ```xml
     <person xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="http://www.example.org/1"
     xsi:schemaLocation="http://www.example.org/1 1.xsd">
@@ -59,7 +59,7 @@
 - **choice 標籤:** 元素只能出現其中一個。
 - **maxOccurs="unbounded":** 表示出現次數沒限制。
     
-    ```
+    ```xml
     <element name="name" type="string" maxOccurs="unbounded"></element>
     ```
 - **any 標籤:** 表示任意元素。
@@ -68,14 +68,14 @@
   type: 屬性類型。
   use: 屬性是否必須出現。
     
-    ```
+    ```xml
     <attribute name="id1" type="int" use="required"></attribute>
     ```
 - 複雜的 schema 約束
   引入多個 schema 文件，可以給每個起一個**別名**
   想要引入特定約束文件裡的元素，使用 **別名:元素名稱**。
     
-    ```
+    ```xml
     <company xmlns="http://www.example.org/company"
     xmlns:dept="http://www.example.org/department"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
