@@ -27,7 +27,7 @@
     **getTextCotent():** 得到標籤裡面的內容。
    **item(int index):** 下標取到具體的值。
    
-```
+```java
 for(int i = 0; i < list.getLength(); i++ {
     list.item(i); 
 }
